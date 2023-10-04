@@ -1,0 +1,14 @@
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\oefening 1 machten\oefening 1 machten\obj\Debug\net6.0\oefening 1 machten.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\oefening 1 machten\oefening 1 machten\obj\Debug\net6.0\oefening 1 machten.AssemblyInfoInputs.cache
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\oefening 1 machten\oefening 1 machten\obj\Debug\net6.0\oefening 1 machten.AssemblyInfo.cs
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\oefening 1 machten\oefening 1 machten\obj\Debug\net6.0\oefening 1 machten.csproj.CoreCompileInputs.cache
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\oefening 1 machten\oefening 1 machten\bin\Debug\net6.0\oefening 1 machten.exe
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\oefening 1 machten\oefening 1 machten\bin\Debug\net6.0\oefening 1 machten.deps.json
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\oefening 1 machten\oefening 1 machten\bin\Debug\net6.0\oefening 1 machten.runtimeconfig.json
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\oefening 1 machten\oefening 1 machten\bin\Debug\net6.0\oefening 1 machten.dll
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\oefening 1 machten\oefening 1 machten\bin\Debug\net6.0\oefening 1 machten.pdb
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\oefening 1 machten\oefening 1 machten\obj\Debug\net6.0\oefening 1 machten.dll
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\oefening 1 machten\oefening 1 machten\obj\Debug\net6.0\refint\oefening 1 machten.dll
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\oefening 1 machten\oefening 1 machten\obj\Debug\net6.0\oefening 1 machten.pdb
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\oefening 1 machten\oefening 1 machten\obj\Debug\net6.0\oefening 1 machten.genruntimeconfig.cache
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\oefening 1 machten\oefening 1 machten\obj\Debug\net6.0\ref\oefening 1 machten.dll
