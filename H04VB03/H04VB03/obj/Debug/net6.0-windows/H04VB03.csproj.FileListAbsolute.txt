@@ -1,0 +1,16 @@
+C:\Users\xander.gielen\source\repos\H04VB03\H04VB03\bin\Debug\net6.0-windows\H04VB03.exe
+C:\Users\xander.gielen\source\repos\H04VB03\H04VB03\bin\Debug\net6.0-windows\H04VB03.deps.json
+C:\Users\xander.gielen\source\repos\H04VB03\H04VB03\bin\Debug\net6.0-windows\H04VB03.runtimeconfig.json
+C:\Users\xander.gielen\source\repos\H04VB03\H04VB03\bin\Debug\net6.0-windows\H04VB03.dll
+C:\Users\xander.gielen\source\repos\H04VB03\H04VB03\bin\Debug\net6.0-windows\H04VB03.pdb
+C:\Users\xander.gielen\source\repos\H04VB03\H04VB03\obj\Debug\net6.0-windows\H04VB03.Form1.resources
+C:\Users\xander.gielen\source\repos\H04VB03\H04VB03\obj\Debug\net6.0-windows\H04VB03.csproj.GenerateResource.cache
+C:\Users\xander.gielen\source\repos\H04VB03\H04VB03\obj\Debug\net6.0-windows\H04VB03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xander.gielen\source\repos\H04VB03\H04VB03\obj\Debug\net6.0-windows\H04VB03.AssemblyInfoInputs.cache
+C:\Users\xander.gielen\source\repos\H04VB03\H04VB03\obj\Debug\net6.0-windows\H04VB03.AssemblyInfo.cs
+C:\Users\xander.gielen\source\repos\H04VB03\H04VB03\obj\Debug\net6.0-windows\H04VB03.csproj.CoreCompileInputs.cache
+C:\Users\xander.gielen\source\repos\H04VB03\H04VB03\obj\Debug\net6.0-windows\H04VB03.dll
+C:\Users\xander.gielen\source\repos\H04VB03\H04VB03\obj\Debug\net6.0-windows\refint\H04VB03.dll
+C:\Users\xander.gielen\source\repos\H04VB03\H04VB03\obj\Debug\net6.0-windows\H04VB03.pdb
+C:\Users\xander.gielen\source\repos\H04VB03\H04VB03\obj\Debug\net6.0-windows\H04VB03.genruntimeconfig.cache
+C:\Users\xander.gielen\source\repos\H04VB03\H04VB03\obj\Debug\net6.0-windows\ref\H04VB03.dll

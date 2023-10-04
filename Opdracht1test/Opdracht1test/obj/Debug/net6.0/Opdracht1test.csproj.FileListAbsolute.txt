@@ -1,0 +1,14 @@
+C:\Users\xander.gielen\source\repos\Opdracht1test\Opdracht1test\bin\Debug\net6.0\Opdracht1test.exe
+C:\Users\xander.gielen\source\repos\Opdracht1test\Opdracht1test\bin\Debug\net6.0\Opdracht1test.deps.json
+C:\Users\xander.gielen\source\repos\Opdracht1test\Opdracht1test\bin\Debug\net6.0\Opdracht1test.runtimeconfig.json
+C:\Users\xander.gielen\source\repos\Opdracht1test\Opdracht1test\bin\Debug\net6.0\Opdracht1test.dll
+C:\Users\xander.gielen\source\repos\Opdracht1test\Opdracht1test\bin\Debug\net6.0\Opdracht1test.pdb
+C:\Users\xander.gielen\source\repos\Opdracht1test\Opdracht1test\obj\Debug\net6.0\Opdracht1test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xander.gielen\source\repos\Opdracht1test\Opdracht1test\obj\Debug\net6.0\Opdracht1test.AssemblyInfoInputs.cache
+C:\Users\xander.gielen\source\repos\Opdracht1test\Opdracht1test\obj\Debug\net6.0\Opdracht1test.AssemblyInfo.cs
+C:\Users\xander.gielen\source\repos\Opdracht1test\Opdracht1test\obj\Debug\net6.0\Opdracht1test.csproj.CoreCompileInputs.cache
+C:\Users\xander.gielen\source\repos\Opdracht1test\Opdracht1test\obj\Debug\net6.0\Opdracht1test.dll
+C:\Users\xander.gielen\source\repos\Opdracht1test\Opdracht1test\obj\Debug\net6.0\refint\Opdracht1test.dll
+C:\Users\xander.gielen\source\repos\Opdracht1test\Opdracht1test\obj\Debug\net6.0\Opdracht1test.pdb
+C:\Users\xander.gielen\source\repos\Opdracht1test\Opdracht1test\obj\Debug\net6.0\Opdracht1test.genruntimeconfig.cache
+C:\Users\xander.gielen\source\repos\Opdracht1test\Opdracht1test\obj\Debug\net6.0\ref\Opdracht1test.dll

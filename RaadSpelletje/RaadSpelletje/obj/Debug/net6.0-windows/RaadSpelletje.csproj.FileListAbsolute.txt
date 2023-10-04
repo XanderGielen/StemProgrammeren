@@ -1,0 +1,16 @@
+C:\Users\xander.gielen\source\repos\RaadSpelletje\RaadSpelletje\bin\Debug\net6.0-windows\RaadSpelletje.exe
+C:\Users\xander.gielen\source\repos\RaadSpelletje\RaadSpelletje\bin\Debug\net6.0-windows\RaadSpelletje.deps.json
+C:\Users\xander.gielen\source\repos\RaadSpelletje\RaadSpelletje\bin\Debug\net6.0-windows\RaadSpelletje.runtimeconfig.json
+C:\Users\xander.gielen\source\repos\RaadSpelletje\RaadSpelletje\bin\Debug\net6.0-windows\RaadSpelletje.dll
+C:\Users\xander.gielen\source\repos\RaadSpelletje\RaadSpelletje\bin\Debug\net6.0-windows\RaadSpelletje.pdb
+C:\Users\xander.gielen\source\repos\RaadSpelletje\RaadSpelletje\obj\Debug\net6.0-windows\RaadSpelletje.Form1.resources
+C:\Users\xander.gielen\source\repos\RaadSpelletje\RaadSpelletje\obj\Debug\net6.0-windows\RaadSpelletje.csproj.GenerateResource.cache
+C:\Users\xander.gielen\source\repos\RaadSpelletje\RaadSpelletje\obj\Debug\net6.0-windows\RaadSpelletje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xander.gielen\source\repos\RaadSpelletje\RaadSpelletje\obj\Debug\net6.0-windows\RaadSpelletje.AssemblyInfoInputs.cache
+C:\Users\xander.gielen\source\repos\RaadSpelletje\RaadSpelletje\obj\Debug\net6.0-windows\RaadSpelletje.AssemblyInfo.cs
+C:\Users\xander.gielen\source\repos\RaadSpelletje\RaadSpelletje\obj\Debug\net6.0-windows\RaadSpelletje.csproj.CoreCompileInputs.cache
+C:\Users\xander.gielen\source\repos\RaadSpelletje\RaadSpelletje\obj\Debug\net6.0-windows\RaadSpelletje.dll
+C:\Users\xander.gielen\source\repos\RaadSpelletje\RaadSpelletje\obj\Debug\net6.0-windows\refint\RaadSpelletje.dll
+C:\Users\xander.gielen\source\repos\RaadSpelletje\RaadSpelletje\obj\Debug\net6.0-windows\RaadSpelletje.pdb
+C:\Users\xander.gielen\source\repos\RaadSpelletje\RaadSpelletje\obj\Debug\net6.0-windows\RaadSpelletje.genruntimeconfig.cache
+C:\Users\xander.gielen\source\repos\RaadSpelletje\RaadSpelletje\obj\Debug\net6.0-windows\ref\RaadSpelletje.dll

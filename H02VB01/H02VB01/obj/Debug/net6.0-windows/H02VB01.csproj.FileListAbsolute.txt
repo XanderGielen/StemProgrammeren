@@ -1,0 +1,16 @@
+C:\Users\xander.gielen\source\repos\H02VB01\H02VB01\bin\Debug\net6.0-windows\H02VB01.exe
+C:\Users\xander.gielen\source\repos\H02VB01\H02VB01\bin\Debug\net6.0-windows\H02VB01.deps.json
+C:\Users\xander.gielen\source\repos\H02VB01\H02VB01\bin\Debug\net6.0-windows\H02VB01.runtimeconfig.json
+C:\Users\xander.gielen\source\repos\H02VB01\H02VB01\bin\Debug\net6.0-windows\H02VB01.dll
+C:\Users\xander.gielen\source\repos\H02VB01\H02VB01\bin\Debug\net6.0-windows\H02VB01.pdb
+C:\Users\xander.gielen\source\repos\H02VB01\H02VB01\obj\Debug\net6.0-windows\H02VB01.labPrijs.resources
+C:\Users\xander.gielen\source\repos\H02VB01\H02VB01\obj\Debug\net6.0-windows\H02VB01.csproj.GenerateResource.cache
+C:\Users\xander.gielen\source\repos\H02VB01\H02VB01\obj\Debug\net6.0-windows\H02VB01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xander.gielen\source\repos\H02VB01\H02VB01\obj\Debug\net6.0-windows\H02VB01.AssemblyInfoInputs.cache
+C:\Users\xander.gielen\source\repos\H02VB01\H02VB01\obj\Debug\net6.0-windows\H02VB01.AssemblyInfo.cs
+C:\Users\xander.gielen\source\repos\H02VB01\H02VB01\obj\Debug\net6.0-windows\H02VB01.csproj.CoreCompileInputs.cache
+C:\Users\xander.gielen\source\repos\H02VB01\H02VB01\obj\Debug\net6.0-windows\H02VB01.dll
+C:\Users\xander.gielen\source\repos\H02VB01\H02VB01\obj\Debug\net6.0-windows\refint\H02VB01.dll
+C:\Users\xander.gielen\source\repos\H02VB01\H02VB01\obj\Debug\net6.0-windows\H02VB01.pdb
+C:\Users\xander.gielen\source\repos\H02VB01\H02VB01\obj\Debug\net6.0-windows\H02VB01.genruntimeconfig.cache
+C:\Users\xander.gielen\source\repos\H02VB01\H02VB01\obj\Debug\net6.0-windows\ref\H02VB01.dll

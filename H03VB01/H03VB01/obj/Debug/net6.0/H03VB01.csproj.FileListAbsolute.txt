@@ -1,0 +1,14 @@
+C:\Users\xander.gielen\source\repos\H03VB01\H03VB01\obj\Debug\net6.0\H03VB01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xander.gielen\source\repos\H03VB01\H03VB01\obj\Debug\net6.0\H03VB01.AssemblyInfoInputs.cache
+C:\Users\xander.gielen\source\repos\H03VB01\H03VB01\obj\Debug\net6.0\H03VB01.AssemblyInfo.cs
+C:\Users\xander.gielen\source\repos\H03VB01\H03VB01\obj\Debug\net6.0\H03VB01.csproj.CoreCompileInputs.cache
+C:\Users\xander.gielen\source\repos\H03VB01\H03VB01\bin\Debug\net6.0\H03VB01.exe
+C:\Users\xander.gielen\source\repos\H03VB01\H03VB01\bin\Debug\net6.0\H03VB01.deps.json
+C:\Users\xander.gielen\source\repos\H03VB01\H03VB01\bin\Debug\net6.0\H03VB01.runtimeconfig.json
+C:\Users\xander.gielen\source\repos\H03VB01\H03VB01\bin\Debug\net6.0\H03VB01.dll
+C:\Users\xander.gielen\source\repos\H03VB01\H03VB01\bin\Debug\net6.0\H03VB01.pdb
+C:\Users\xander.gielen\source\repos\H03VB01\H03VB01\obj\Debug\net6.0\H03VB01.dll
+C:\Users\xander.gielen\source\repos\H03VB01\H03VB01\obj\Debug\net6.0\refint\H03VB01.dll
+C:\Users\xander.gielen\source\repos\H03VB01\H03VB01\obj\Debug\net6.0\H03VB01.pdb
+C:\Users\xander.gielen\source\repos\H03VB01\H03VB01\obj\Debug\net6.0\H03VB01.genruntimeconfig.cache
+C:\Users\xander.gielen\source\repos\H03VB01\H03VB01\obj\Debug\net6.0\ref\H03VB01.dll
