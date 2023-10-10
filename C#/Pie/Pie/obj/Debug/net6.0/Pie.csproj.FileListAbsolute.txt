@@ -1,0 +1,14 @@
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\Pie\Pie\bin\Debug\net6.0\Pie.exe
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\Pie\Pie\bin\Debug\net6.0\Pie.deps.json
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\Pie\Pie\bin\Debug\net6.0\Pie.runtimeconfig.json
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\Pie\Pie\bin\Debug\net6.0\Pie.dll
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\Pie\Pie\bin\Debug\net6.0\Pie.pdb
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\Pie\Pie\obj\Debug\net6.0\Pie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\Pie\Pie\obj\Debug\net6.0\Pie.AssemblyInfoInputs.cache
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\Pie\Pie\obj\Debug\net6.0\Pie.AssemblyInfo.cs
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\Pie\Pie\obj\Debug\net6.0\Pie.csproj.CoreCompileInputs.cache
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\Pie\Pie\obj\Debug\net6.0\Pie.dll
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\Pie\Pie\obj\Debug\net6.0\refint\Pie.dll
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\Pie\Pie\obj\Debug\net6.0\Pie.pdb
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\Pie\Pie\obj\Debug\net6.0\Pie.genruntimeconfig.cache
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\Pie\Pie\obj\Debug\net6.0\ref\Pie.dll

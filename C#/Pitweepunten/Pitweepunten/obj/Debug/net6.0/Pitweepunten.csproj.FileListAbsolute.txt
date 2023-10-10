@@ -1,0 +1,14 @@
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\Pitweepunten\Pitweepunten\bin\Debug\net6.0\Pitweepunten.exe
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\Pitweepunten\Pitweepunten\bin\Debug\net6.0\Pitweepunten.deps.json
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\Pitweepunten\Pitweepunten\bin\Debug\net6.0\Pitweepunten.runtimeconfig.json
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\Pitweepunten\Pitweepunten\bin\Debug\net6.0\Pitweepunten.dll
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\Pitweepunten\Pitweepunten\bin\Debug\net6.0\Pitweepunten.pdb
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\Pitweepunten\Pitweepunten\obj\Debug\net6.0\Pitweepunten.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\Pitweepunten\Pitweepunten\obj\Debug\net6.0\Pitweepunten.AssemblyInfoInputs.cache
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\Pitweepunten\Pitweepunten\obj\Debug\net6.0\Pitweepunten.AssemblyInfo.cs
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\Pitweepunten\Pitweepunten\obj\Debug\net6.0\Pitweepunten.csproj.CoreCompileInputs.cache
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\Pitweepunten\Pitweepunten\obj\Debug\net6.0\Pitweepunten.dll
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\Pitweepunten\Pitweepunten\obj\Debug\net6.0\refint\Pitweepunten.dll
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\Pitweepunten\Pitweepunten\obj\Debug\net6.0\Pitweepunten.pdb
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\Pitweepunten\Pitweepunten\obj\Debug\net6.0\Pitweepunten.genruntimeconfig.cache
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\Pitweepunten\Pitweepunten\obj\Debug\net6.0\ref\Pitweepunten.dll
