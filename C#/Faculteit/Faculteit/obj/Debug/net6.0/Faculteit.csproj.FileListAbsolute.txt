@@ -1,0 +1,14 @@
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\Faculteit\Faculteit\bin\Debug\net6.0\Faculteit.exe
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\Faculteit\Faculteit\bin\Debug\net6.0\Faculteit.deps.json
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\Faculteit\Faculteit\bin\Debug\net6.0\Faculteit.runtimeconfig.json
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\Faculteit\Faculteit\bin\Debug\net6.0\Faculteit.dll
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\Faculteit\Faculteit\bin\Debug\net6.0\Faculteit.pdb
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\Faculteit\Faculteit\obj\Debug\net6.0\Faculteit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\Faculteit\Faculteit\obj\Debug\net6.0\Faculteit.AssemblyInfoInputs.cache
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\Faculteit\Faculteit\obj\Debug\net6.0\Faculteit.AssemblyInfo.cs
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\Faculteit\Faculteit\obj\Debug\net6.0\Faculteit.csproj.CoreCompileInputs.cache
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\Faculteit\Faculteit\obj\Debug\net6.0\Faculteit.dll
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\Faculteit\Faculteit\obj\Debug\net6.0\refint\Faculteit.dll
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\Faculteit\Faculteit\obj\Debug\net6.0\Faculteit.pdb
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\Faculteit\Faculteit\obj\Debug\net6.0\Faculteit.genruntimeconfig.cache
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\Faculteit\Faculteit\obj\Debug\net6.0\ref\Faculteit.dll
