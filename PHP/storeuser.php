@@ -1,5 +1,6 @@
 <?php
 
+//create users
 for ($i = 0; $i < 5; $i++) {
     $random = random_int(1, 5);
     
@@ -31,10 +32,13 @@ for ($i = 0; $i < 5; $i++) {
     addUser($user, $tokens);
 }
 
+
 $allUsers = readUsers();
 print_r($allUsers);
 
 echo decreaseTokens("K2s5GfH7", 1);
+
+
 
 function addUser($userID, $tokens)
 {
@@ -46,10 +50,15 @@ function addUser($userID, $tokens)
 // Functie om gebruikersinformatie te lezen
 function readUsers()
 {
+    $row = 1;
     $users = array();
     if (($file = fopen("users.csv", "r")) !== FALSE) {
         while (($data = fgetcsv($file, 1000, ",")) !== FALSE) {
-            $users[] = $data;
+            $num = count($data);
+            $row++;
+            for ($c=0; $c < $num; $c++) {
+                echo $data[$c] . "<br />\n";
+            }
         }
         fclose($file);
     }
@@ -73,5 +82,5 @@ function decreaseTokens($userID, $amount)
             $user[1] -= $amount;
         }
     }
-    writeUsers($users);
+    echo($users);
 }
