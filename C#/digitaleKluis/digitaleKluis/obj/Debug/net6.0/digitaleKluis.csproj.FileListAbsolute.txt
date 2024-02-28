@@ -1,0 +1,15 @@
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\digitaleKluis\digitaleKluis\obj\Debug\net6.0\digitaleKluis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\digitaleKluis\digitaleKluis\obj\Debug\net6.0\digitaleKluis.AssemblyInfoInputs.cache
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\digitaleKluis\digitaleKluis\obj\Debug\net6.0\digitaleKluis.AssemblyInfo.cs
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\digitaleKluis\digitaleKluis\obj\Debug\net6.0\digitaleKluis.csproj.CoreCompileInputs.cache
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\digitaleKluis\digitaleKluis\bin\Debug\net6.0\digitaleKluis.exe
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\digitaleKluis\digitaleKluis\bin\Debug\net6.0\digitaleKluis.deps.json
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\digitaleKluis\digitaleKluis\bin\Debug\net6.0\digitaleKluis.runtimeconfig.json
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\digitaleKluis\digitaleKluis\bin\Debug\net6.0\digitaleKluis.dll
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\digitaleKluis\digitaleKluis\bin\Debug\net6.0\digitaleKluis.pdb
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\digitaleKluis\digitaleKluis\obj\Debug\net6.0\digitaleKluis.dll
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\digitaleKluis\digitaleKluis\obj\Debug\net6.0\refint\digitaleKluis.dll
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\digitaleKluis\digitaleKluis\obj\Debug\net6.0\digitaleKluis.pdb
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\digitaleKluis\digitaleKluis\obj\Debug\net6.0\digitaleKluis.genruntimeconfig.cache
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\digitaleKluis\digitaleKluis\obj\Debug\net6.0\ref\digitaleKluis.dll
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\digitaleKluis\digitaleKluis\obj\Debug\net6.0\digitaleKluis.sourcelink.json

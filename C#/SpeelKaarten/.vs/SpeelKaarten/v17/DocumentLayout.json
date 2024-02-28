@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\xander.gielen\\Documents\\GitHub\\StemProgrammeren\\C#\\SpeelKaarten\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E0320F-C704-45CD-A879-782ABCAB6E13}|SpeelKaarten\\SpeelKaarten.csproj|c:\\users\\xander.gielen\\documents\\github\\stemprogrammeren\\c#\\speelkaarten\\speelkaarten\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E0320F-C704-45CD-A879-782ABCAB6E13}|SpeelKaarten\\SpeelKaarten.csproj|solutionrelative:speelkaarten\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E0320F-C704-45CD-A879-782ABCAB6E13}|SpeelKaarten\\SpeelKaarten.csproj|c:\\users\\xander.gielen\\documents\\github\\stemprogrammeren\\c#\\speelkaarten\\speelkaarten\\speelkaart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E0320F-C704-45CD-A879-782ABCAB6E13}|SpeelKaarten\\SpeelKaarten.csproj|solutionrelative:speelkaarten\\speelkaart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\xander.gielen\\Documents\\GitHub\\StemProgrammeren\\C#\\SpeelKaarten\\SpeelKaarten\\Program.cs",
+              "RelativeDocumentMoniker": "SpeelKaarten\\Program.cs",
+              "ToolTip": "C:\\Users\\xander.gielen\\Documents\\GitHub\\StemProgrammeren\\C#\\SpeelKaarten\\SpeelKaarten\\Program.cs",
+              "RelativeToolTip": "SpeelKaarten\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T14:02:40.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Speelkaart.cs",
+              "DocumentMoniker": "C:\\Users\\xander.gielen\\Documents\\GitHub\\StemProgrammeren\\C#\\SpeelKaarten\\SpeelKaarten\\Speelkaart.cs",
+              "RelativeDocumentMoniker": "SpeelKaarten\\Speelkaart.cs",
+              "ToolTip": "C:\\Users\\xander.gielen\\Documents\\GitHub\\StemProgrammeren\\C#\\SpeelKaarten\\SpeelKaarten\\Speelkaart.cs",
+              "RelativeToolTip": "SpeelKaarten\\Speelkaart.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA7wBcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T13:58:30.319Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

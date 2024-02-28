@@ -1,0 +1,15 @@
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\SpeelKaarten\SpeelKaarten\bin\Debug\net8.0\SpeelKaarten.exe
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\SpeelKaarten\SpeelKaarten\bin\Debug\net8.0\SpeelKaarten.deps.json
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\SpeelKaarten\SpeelKaarten\bin\Debug\net8.0\SpeelKaarten.runtimeconfig.json
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\SpeelKaarten\SpeelKaarten\bin\Debug\net8.0\SpeelKaarten.dll
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\SpeelKaarten\SpeelKaarten\bin\Debug\net8.0\SpeelKaarten.pdb
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\SpeelKaarten\SpeelKaarten\obj\Debug\net8.0\SpeelKaarten.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\SpeelKaarten\SpeelKaarten\obj\Debug\net8.0\SpeelKaarten.AssemblyInfoInputs.cache
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\SpeelKaarten\SpeelKaarten\obj\Debug\net8.0\SpeelKaarten.AssemblyInfo.cs
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\SpeelKaarten\SpeelKaarten\obj\Debug\net8.0\SpeelKaarten.csproj.CoreCompileInputs.cache
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\SpeelKaarten\SpeelKaarten\obj\Debug\net8.0\SpeelKaarten.sourcelink.json
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\SpeelKaarten\SpeelKaarten\obj\Debug\net8.0\SpeelKaarten.dll
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\SpeelKaarten\SpeelKaarten\obj\Debug\net8.0\refint\SpeelKaarten.dll
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\SpeelKaarten\SpeelKaarten\obj\Debug\net8.0\SpeelKaarten.pdb
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\SpeelKaarten\SpeelKaarten\obj\Debug\net8.0\SpeelKaarten.genruntimeconfig.cache
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\SpeelKaarten\SpeelKaarten\obj\Debug\net8.0\ref\SpeelKaarten.dll
