@@ -72,7 +72,8 @@ def deleteContact():
             print("press enter to continue")
             input()
 def displayAllContacts():
-    pass
+    for i in contacten:
+        print(*i.values())
 
 contacten = []
 while True:
