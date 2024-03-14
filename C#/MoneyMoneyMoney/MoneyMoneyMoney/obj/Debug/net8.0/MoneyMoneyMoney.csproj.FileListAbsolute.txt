@@ -1,0 +1,15 @@
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\MoneyMoneyMoney\MoneyMoneyMoney\bin\Debug\net8.0\MoneyMoneyMoney.exe
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\MoneyMoneyMoney\MoneyMoneyMoney\bin\Debug\net8.0\MoneyMoneyMoney.deps.json
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\MoneyMoneyMoney\MoneyMoneyMoney\bin\Debug\net8.0\MoneyMoneyMoney.runtimeconfig.json
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\MoneyMoneyMoney\MoneyMoneyMoney\bin\Debug\net8.0\MoneyMoneyMoney.dll
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\MoneyMoneyMoney\MoneyMoneyMoney\bin\Debug\net8.0\MoneyMoneyMoney.pdb
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\MoneyMoneyMoney\MoneyMoneyMoney\obj\Debug\net8.0\MoneyMoneyMoney.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\MoneyMoneyMoney\MoneyMoneyMoney\obj\Debug\net8.0\MoneyMoneyMoney.AssemblyInfoInputs.cache
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\MoneyMoneyMoney\MoneyMoneyMoney\obj\Debug\net8.0\MoneyMoneyMoney.AssemblyInfo.cs
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\MoneyMoneyMoney\MoneyMoneyMoney\obj\Debug\net8.0\MoneyMoneyMoney.csproj.CoreCompileInputs.cache
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\MoneyMoneyMoney\MoneyMoneyMoney\obj\Debug\net8.0\MoneyMoneyMoney.sourcelink.json
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\MoneyMoneyMoney\MoneyMoneyMoney\obj\Debug\net8.0\MoneyMoneyMoney.dll
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\MoneyMoneyMoney\MoneyMoneyMoney\obj\Debug\net8.0\refint\MoneyMoneyMoney.dll
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\MoneyMoneyMoney\MoneyMoneyMoney\obj\Debug\net8.0\MoneyMoneyMoney.pdb
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\MoneyMoneyMoney\MoneyMoneyMoney\obj\Debug\net8.0\MoneyMoneyMoney.genruntimeconfig.cache
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\MoneyMoneyMoney\MoneyMoneyMoney\obj\Debug\net8.0\ref\MoneyMoneyMoney.dll

@@ -1,0 +1,15 @@
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\2getallendingedoen\2getallendingedoen\bin\Debug\net8.0\2getallendingedoen.exe
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\2getallendingedoen\2getallendingedoen\bin\Debug\net8.0\2getallendingedoen.deps.json
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\2getallendingedoen\2getallendingedoen\bin\Debug\net8.0\2getallendingedoen.runtimeconfig.json
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\2getallendingedoen\2getallendingedoen\bin\Debug\net8.0\2getallendingedoen.dll
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\2getallendingedoen\2getallendingedoen\bin\Debug\net8.0\2getallendingedoen.pdb
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\2getallendingedoen\2getallendingedoen\obj\Debug\net8.0\2getallendingedoen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\2getallendingedoen\2getallendingedoen\obj\Debug\net8.0\2getallendingedoen.AssemblyInfoInputs.cache
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\2getallendingedoen\2getallendingedoen\obj\Debug\net8.0\2getallendingedoen.AssemblyInfo.cs
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\2getallendingedoen\2getallendingedoen\obj\Debug\net8.0\2getallendingedoen.csproj.CoreCompileInputs.cache
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\2getallendingedoen\2getallendingedoen\obj\Debug\net8.0\2getallendingedoen.sourcelink.json
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\2getallendingedoen\2getallendingedoen\obj\Debug\net8.0\2getallendingedoen.dll
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\2getallendingedoen\2getallendingedoen\obj\Debug\net8.0\refint\2getallendingedoen.dll
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\2getallendingedoen\2getallendingedoen\obj\Debug\net8.0\2getallendingedoen.pdb
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\2getallendingedoen\2getallendingedoen\obj\Debug\net8.0\2getallendingedoen.genruntimeconfig.cache
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\2getallendingedoen\2getallendingedoen\obj\Debug\net8.0\ref\2getallendingedoen.dll

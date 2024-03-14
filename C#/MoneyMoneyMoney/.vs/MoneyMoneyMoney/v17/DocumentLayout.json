@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\xander.gielen\\Documents\\GitHub\\StemProgrammeren\\C#\\MoneyMoneyMoney\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB0339E-305E-450D-A5ED-9123426AC56C}|MoneyMoneyMoney\\MoneyMoneyMoney.csproj|c:\\users\\xander.gielen\\documents\\github\\stemprogrammeren\\c#\\moneymoneymoney\\moneymoneymoney\\prorekening.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DB0339E-305E-450D-A5ED-9123426AC56C}|MoneyMoneyMoney\\MoneyMoneyMoney.csproj|solutionrelative:moneymoneymoney\\prorekening.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB0339E-305E-450D-A5ED-9123426AC56C}|MoneyMoneyMoney\\MoneyMoneyMoney.csproj|c:\\users\\xander.gielen\\documents\\github\\stemprogrammeren\\c#\\moneymoneymoney\\moneymoneymoney\\spaarrekening.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DB0339E-305E-450D-A5ED-9123426AC56C}|MoneyMoneyMoney\\MoneyMoneyMoney.csproj|solutionrelative:moneymoneymoney\\spaarrekening.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB0339E-305E-450D-A5ED-9123426AC56C}|MoneyMoneyMoney\\MoneyMoneyMoney.csproj|c:\\users\\xander.gielen\\documents\\github\\stemprogrammeren\\c#\\moneymoneymoney\\moneymoneymoney\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DB0339E-305E-450D-A5ED-9123426AC56C}|MoneyMoneyMoney\\MoneyMoneyMoney.csproj|solutionrelative:moneymoneymoney\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB0339E-305E-450D-A5ED-9123426AC56C}|MoneyMoneyMoney\\MoneyMoneyMoney.csproj|c:\\users\\xander.gielen\\documents\\github\\stemprogrammeren\\c#\\moneymoneymoney\\moneymoneymoney\\bankrekening.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DB0339E-305E-450D-A5ED-9123426AC56C}|MoneyMoneyMoney\\MoneyMoneyMoney.csproj|solutionrelative:moneymoneymoney\\bankrekening.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB0339E-305E-450D-A5ED-9123426AC56C}|MoneyMoneyMoney\\MoneyMoneyMoney.csproj|c:\\users\\xander.gielen\\documents\\github\\stemprogrammeren\\c#\\moneymoneymoney\\moneymoneymoney\\rekening.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DB0339E-305E-450D-A5ED-9123426AC56C}|MoneyMoneyMoney\\MoneyMoneyMoney.csproj|solutionrelative:moneymoneymoney\\rekening.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProRekening.cs",
+              "DocumentMoniker": "C:\\Users\\xander.gielen\\Documents\\GitHub\\StemProgrammeren\\C#\\MoneyMoneyMoney\\MoneyMoneyMoney\\ProRekening.cs",
+              "RelativeDocumentMoniker": "MoneyMoneyMoney\\ProRekening.cs",
+              "ToolTip": "C:\\Users\\xander.gielen\\Documents\\GitHub\\StemProgrammeren\\C#\\MoneyMoneyMoney\\MoneyMoneyMoney\\ProRekening.cs",
+              "RelativeToolTip": "MoneyMoneyMoney\\ProRekening.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T14:18:30.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SpaarRekening.cs",
+              "DocumentMoniker": "C:\\Users\\xander.gielen\\Documents\\GitHub\\StemProgrammeren\\C#\\MoneyMoneyMoney\\MoneyMoneyMoney\\SpaarRekening.cs",
+              "RelativeDocumentMoniker": "MoneyMoneyMoney\\SpaarRekening.cs",
+              "ToolTip": "C:\\Users\\xander.gielen\\Documents\\GitHub\\StemProgrammeren\\C#\\MoneyMoneyMoney\\MoneyMoneyMoney\\SpaarRekening.cs",
+              "RelativeToolTip": "MoneyMoneyMoney\\SpaarRekening.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T14:14:52.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BankRekening.cs",
+              "DocumentMoniker": "C:\\Users\\xander.gielen\\Documents\\GitHub\\StemProgrammeren\\C#\\MoneyMoneyMoney\\MoneyMoneyMoney\\BankRekening.cs",
+              "RelativeDocumentMoniker": "MoneyMoneyMoney\\BankRekening.cs",
+              "ToolTip": "C:\\Users\\xander.gielen\\Documents\\GitHub\\StemProgrammeren\\C#\\MoneyMoneyMoney\\MoneyMoneyMoney\\BankRekening.cs",
+              "RelativeToolTip": "MoneyMoneyMoney\\BankRekening.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T14:00:29.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Rekening.cs",
+              "DocumentMoniker": "C:\\Users\\xander.gielen\\Documents\\GitHub\\StemProgrammeren\\C#\\MoneyMoneyMoney\\MoneyMoneyMoney\\Rekening.cs",
+              "RelativeDocumentMoniker": "MoneyMoneyMoney\\Rekening.cs",
+              "ToolTip": "C:\\Users\\xander.gielen\\Documents\\GitHub\\StemProgrammeren\\C#\\MoneyMoneyMoney\\MoneyMoneyMoney\\Rekening.cs",
+              "RelativeToolTip": "MoneyMoneyMoney\\Rekening.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T13:55:30.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\xander.gielen\\Documents\\GitHub\\StemProgrammeren\\C#\\MoneyMoneyMoney\\MoneyMoneyMoney\\Program.cs",
+              "RelativeDocumentMoniker": "MoneyMoneyMoney\\Program.cs",
+              "ToolTip": "C:\\Users\\xander.gielen\\Documents\\GitHub\\StemProgrammeren\\C#\\MoneyMoneyMoney\\MoneyMoneyMoney\\Program.cs",
+              "RelativeToolTip": "MoneyMoneyMoney\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T13:54:00.883Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

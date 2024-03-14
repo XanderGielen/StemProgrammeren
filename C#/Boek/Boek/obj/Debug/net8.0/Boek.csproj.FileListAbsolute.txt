@@ -1,0 +1,15 @@
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\Boek\Boek\bin\Debug\net8.0\Boek.exe
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\Boek\Boek\bin\Debug\net8.0\Boek.deps.json
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\Boek\Boek\bin\Debug\net8.0\Boek.runtimeconfig.json
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\Boek\Boek\bin\Debug\net8.0\Boek.dll
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\Boek\Boek\bin\Debug\net8.0\Boek.pdb
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\Boek\Boek\obj\Debug\net8.0\Boek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\Boek\Boek\obj\Debug\net8.0\Boek.AssemblyInfoInputs.cache
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\Boek\Boek\obj\Debug\net8.0\Boek.AssemblyInfo.cs
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\Boek\Boek\obj\Debug\net8.0\Boek.csproj.CoreCompileInputs.cache
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\Boek\Boek\obj\Debug\net8.0\Boek.sourcelink.json
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\Boek\Boek\obj\Debug\net8.0\Boek.dll
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\Boek\Boek\obj\Debug\net8.0\refint\Boek.dll
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\Boek\Boek\obj\Debug\net8.0\Boek.pdb
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\Boek\Boek\obj\Debug\net8.0\Boek.genruntimeconfig.cache
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\Boek\Boek\obj\Debug\net8.0\ref\Boek.dll

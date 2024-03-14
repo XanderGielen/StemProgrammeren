@@ -15,10 +15,10 @@ namespace Boek
 
         public virtual double Prijs {  get; set; }
 
-        static klasseBoek TelOp(klasseBoek boek1, klasseBoek boek2)
+        public static klasseBoek TelOp(klasseBoek boek1, klasseBoek boek2)
         {
             klasseBoek tijdelijkboek = new klasseBoek();
-            tijdelijkboek.Title = "ömnibus van" + boek1.Title + " en " + boek2.Title;
+            tijdelijkboek.Title = "ömnibus van " + boek1.Title + " en " + boek2.Title;
             tijdelijkboek.Prijs = (boek1.Prijs + boek2.Prijs) / 2;
             return tijdelijkboek;
         } 

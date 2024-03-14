@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\xander.gielen\\Documents\\GitHub\\StemProgrammeren\\C#\\Boek\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3D0AF179-919A-4397-86C0-E142BB8F81C3}|Boek\\Boek.csproj|c:\\users\\xander.gielen\\documents\\github\\stemprogrammeren\\c#\\boek\\boek\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D0AF179-919A-4397-86C0-E142BB8F81C3}|Boek\\Boek.csproj|solutionrelative:boek\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3D0AF179-919A-4397-86C0-E142BB8F81C3}|Boek\\Boek.csproj|c:\\users\\xander.gielen\\documents\\github\\stemprogrammeren\\c#\\boek\\boek\\klasseboek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D0AF179-919A-4397-86C0-E142BB8F81C3}|Boek\\Boek.csproj|solutionrelative:boek\\klasseboek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D0AF179-919A-4397-86C0-E142BB8F81C3}|Boek\\Boek.csproj|c:\\users\\xander.gielen\\documents\\github\\stemprogrammeren\\c#\\boek\\boek\\koffietafelboek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D0AF179-919A-4397-86C0-E142BB8F81C3}|Boek\\Boek.csproj|solutionrelative:boek\\koffietafelboek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3D0AF179-919A-4397-86C0-E142BB8F81C3}|Boek\\Boek.csproj|c:\\users\\xander.gielen\\documents\\github\\stemprogrammeren\\c#\\boek\\boek\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D0AF179-919A-4397-86C0-E142BB8F81C3}|Boek\\Boek.csproj|solutionrelative:boek\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3D0AF179-919A-4397-86C0-E142BB8F81C3}|Boek\\Boek.csproj|c:\\users\\xander.gielen\\documents\\github\\stemprogrammeren\\c#\\boek\\boek\\textboek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D0AF179-919A-4397-86C0-E142BB8F81C3}|Boek\\Boek.csproj|solutionrelative:boek\\textboek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0AF179-919A-4397-86C0-E142BB8F81C3}|Boek\\Boek.csproj|c:\\users\\xander.gielen\\documents\\github\\stemprogrammeren\\c#\\boek\\boek\\koffietafelboek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D0AF179-919A-4397-86C0-E142BB8F81C3}|Boek\\Boek.csproj|solutionrelative:boek\\koffietafelboek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,11 +26,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "koffietafelBoek.cs",
               "DocumentMoniker": "C:\\Users\\xander.gielen\\Documents\\GitHub\\StemProgrammeren\\C#\\Boek\\Boek\\koffietafelBoek.cs",
               "RelativeDocumentMoniker": "Boek\\koffietafelBoek.cs",
@@ -38,44 +38,43 @@
               "RelativeToolTip": "Boek\\koffietafelBoek.cs",
               "ViewState": "AQIAAAEAAAAAAAAAAAAtwB0AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-28T09:41:00.889Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-28T09:41:00.889Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "TextBoek.cs",
               "DocumentMoniker": "C:\\Users\\xander.gielen\\Documents\\GitHub\\StemProgrammeren\\C#\\Boek\\Boek\\TextBoek.cs",
               "RelativeDocumentMoniker": "Boek\\TextBoek.cs",
               "ToolTip": "C:\\Users\\xander.gielen\\Documents\\GitHub\\StemProgrammeren\\C#\\Boek\\Boek\\TextBoek.cs",
               "RelativeToolTip": "Boek\\TextBoek.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAsAAAAIAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-28T09:37:54.164Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "klasseBoek.cs",
               "DocumentMoniker": "C:\\Users\\xander.gielen\\Documents\\GitHub\\StemProgrammeren\\C#\\Boek\\Boek\\klasseBoek.cs",
               "RelativeDocumentMoniker": "Boek\\klasseBoek.cs",
               "ToolTip": "C:\\Users\\xander.gielen\\Documents\\GitHub\\StemProgrammeren\\C#\\Boek\\Boek\\klasseBoek.cs",
               "RelativeToolTip": "Boek\\klasseBoek.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAApwAwAAAAWAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAuwBQAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-28T09:35:56.814Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\xander.gielen\\Documents\\GitHub\\StemProgrammeren\\C#\\Boek\\Boek\\Program.cs",
               "RelativeDocumentMoniker": "Boek\\Program.cs",
               "ToolTip": "C:\\Users\\xander.gielen\\Documents\\GitHub\\StemProgrammeren\\C#\\Boek\\Boek\\Program.cs",
               "RelativeToolTip": "Boek\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-28T09:34:55.97Z",
               "EditorCaption": ""

@@ -1,0 +1,15 @@
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\ProjDierenTuin\ProjDierenTuin\bin\Debug\net8.0\ProjDierenTuin.exe
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\ProjDierenTuin\ProjDierenTuin\bin\Debug\net8.0\ProjDierenTuin.deps.json
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\ProjDierenTuin\ProjDierenTuin\bin\Debug\net8.0\ProjDierenTuin.runtimeconfig.json
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\ProjDierenTuin\ProjDierenTuin\bin\Debug\net8.0\ProjDierenTuin.dll
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\ProjDierenTuin\ProjDierenTuin\bin\Debug\net8.0\ProjDierenTuin.pdb
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\ProjDierenTuin\ProjDierenTuin\obj\Debug\net8.0\ProjDierenTuin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\ProjDierenTuin\ProjDierenTuin\obj\Debug\net8.0\ProjDierenTuin.AssemblyInfoInputs.cache
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\ProjDierenTuin\ProjDierenTuin\obj\Debug\net8.0\ProjDierenTuin.AssemblyInfo.cs
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\ProjDierenTuin\ProjDierenTuin\obj\Debug\net8.0\ProjDierenTuin.csproj.CoreCompileInputs.cache
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\ProjDierenTuin\ProjDierenTuin\obj\Debug\net8.0\ProjDierenTuin.sourcelink.json
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\ProjDierenTuin\ProjDierenTuin\obj\Debug\net8.0\ProjDierenTuin.dll
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\ProjDierenTuin\ProjDierenTuin\obj\Debug\net8.0\refint\ProjDierenTuin.dll
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\ProjDierenTuin\ProjDierenTuin\obj\Debug\net8.0\ProjDierenTuin.pdb
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\ProjDierenTuin\ProjDierenTuin\obj\Debug\net8.0\ProjDierenTuin.genruntimeconfig.cache
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\ProjDierenTuin\ProjDierenTuin\obj\Debug\net8.0\ref\ProjDierenTuin.dll

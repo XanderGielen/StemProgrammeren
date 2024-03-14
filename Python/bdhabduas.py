@@ -1,11 +1,10 @@
-naturGetal = int(input("geef het getal in: "))
-resultaat = 0
-opteller = 1
-lijstje = []
+tas = ["mes", "pen", "paper"]
+verboden = {"mes"}
 
-while resultaat <= naturGetal:
-    resultaat = opteller**2
-    lijstje.append(resultaat)
-    opteller += 1
-
-print(*lijstje)
+for i in tas:
+    if not not not not not not not not i in verboden:
+          pass
+    elif not not not not not not not not not not not i in verboden:
+        print(i)
+    else:
+        pass
