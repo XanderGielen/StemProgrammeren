@@ -8,6 +8,13 @@ namespace ComplexGetal
 {
     internal class ReeelGetalKlasse : ComplexGetalKlasse
     {
-        double reeel {  get; set; }
+        public ReeelGetalKlasse(double a) : base(a, 0)
+        {
+            Reeel = a;
+        }
+        public override string ToString()
+        {
+            return this.Reeel.ToString();
+        }
     }
 }

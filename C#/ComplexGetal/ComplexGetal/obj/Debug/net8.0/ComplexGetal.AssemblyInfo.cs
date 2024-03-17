@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ComplexGetal")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cb95c1e38e64e58fb7131ae58ee602484c960af8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+423ec3f8191440d3a49483e56cee217329d34c58")]
 [assembly: System.Reflection.AssemblyProductAttribute("ComplexGetal")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ComplexGetal")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

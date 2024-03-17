@@ -60,6 +60,10 @@ namespace ComplexGetal
         {
             get
             {
+                if(Imaginair == 0)
+                {
+                    return new ReeelGetalKlasse(-Reeel);
+                }
                 ComplexGetalKlasse Tegengestelde = new ComplexGetalKlasse(-Reeel, -Imaginair);
                 return Tegengestelde;
             }
@@ -69,6 +73,10 @@ namespace ComplexGetal
             get
             {
                 double ReeelOmgekeerde = Reeel / R2;
+                if (Imaginair == 0)
+                {
+                    return new ReeelGetalKlasse(ReeelOmgekeerde);
+                }
                 double ImaginairOmgekeerde = -Imaginair / R2;
                 ComplexGetalKlasse Omgekeerde = new ComplexGetalKlasse(ReeelOmgekeerde, ImaginairOmgekeerde);
                 return Omgekeerde;

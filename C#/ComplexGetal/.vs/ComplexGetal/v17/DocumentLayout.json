@@ -1,12 +1,71 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\xander.gielen\\Documents\\GitHub\\StemProgrammeren\\C#\\ComplexGetal\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2334491E-06D1-42CC-9A77-F5A17E93CAD3}|ComplexGetal\\ComplexGetal.csproj|c:\\users\\xander.gielen\\documents\\github\\stemprogrammeren\\c#\\complexgetal\\complexgetal\\complexgetalklasse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2334491E-06D1-42CC-9A77-F5A17E93CAD3}|ComplexGetal\\ComplexGetal.csproj|solutionrelative:complexgetal\\complexgetalklasse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2334491E-06D1-42CC-9A77-F5A17E93CAD3}|ComplexGetal\\ComplexGetal.csproj|c:\\users\\xander.gielen\\documents\\github\\stemprogrammeren\\c#\\complexgetal\\complexgetal\\reeelgetalklasse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2334491E-06D1-42CC-9A77-F5A17E93CAD3}|ComplexGetal\\ComplexGetal.csproj|solutionrelative:complexgetal\\reeelgetalklasse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2334491E-06D1-42CC-9A77-F5A17E93CAD3}|ComplexGetal\\ComplexGetal.csproj|c:\\users\\xander.gielen\\documents\\github\\stemprogrammeren\\c#\\complexgetal\\complexgetal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2334491E-06D1-42CC-9A77-F5A17E93CAD3}|ComplexGetal\\ComplexGetal.csproj|solutionrelative:complexgetal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\xander.gielen\\Documents\\GitHub\\StemProgrammeren\\C#\\ComplexGetal\\ComplexGetal\\Program.cs",
+              "RelativeDocumentMoniker": "ComplexGetal\\Program.cs",
+              "ToolTip": "C:\\Users\\xander.gielen\\Documents\\GitHub\\StemProgrammeren\\C#\\ComplexGetal\\ComplexGetal\\Program.cs",
+              "RelativeToolTip": "ComplexGetal\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T09:41:27.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReeelGetalKlasse.cs",
+              "DocumentMoniker": "C:\\Users\\xander.gielen\\Documents\\GitHub\\StemProgrammeren\\C#\\ComplexGetal\\ComplexGetal\\ReeelGetalKlasse.cs",
+              "RelativeDocumentMoniker": "ComplexGetal\\ReeelGetalKlasse.cs",
+              "ToolTip": "C:\\Users\\xander.gielen\\Documents\\GitHub\\StemProgrammeren\\C#\\ComplexGetal\\ComplexGetal\\ReeelGetalKlasse.cs",
+              "RelativeToolTip": "ComplexGetal\\ReeelGetalKlasse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T09:26:46.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ComplexGetalKlasse.cs",
+              "DocumentMoniker": "C:\\Users\\xander.gielen\\Documents\\GitHub\\StemProgrammeren\\C#\\ComplexGetal\\ComplexGetal\\ComplexGetalKlasse.cs",
+              "RelativeDocumentMoniker": "ComplexGetal\\ComplexGetalKlasse.cs",
+              "ToolTip": "C:\\Users\\xander.gielen\\Documents\\GitHub\\StemProgrammeren\\C#\\ComplexGetal\\ComplexGetal\\ComplexGetalKlasse.cs",
+              "RelativeToolTip": "ComplexGetal\\ComplexGetalKlasse.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAcwEwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T09:30:34.123Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

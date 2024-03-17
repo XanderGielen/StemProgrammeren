@@ -1,0 +1,15 @@
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\ComplexGetal\ComplexGetal\bin\Debug\net8.0\ComplexGetal.exe
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\ComplexGetal\ComplexGetal\bin\Debug\net8.0\ComplexGetal.deps.json
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\ComplexGetal\ComplexGetal\bin\Debug\net8.0\ComplexGetal.runtimeconfig.json
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\ComplexGetal\ComplexGetal\bin\Debug\net8.0\ComplexGetal.dll
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\ComplexGetal\ComplexGetal\bin\Debug\net8.0\ComplexGetal.pdb
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\ComplexGetal\ComplexGetal\obj\Debug\net8.0\ComplexGetal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\ComplexGetal\ComplexGetal\obj\Debug\net8.0\ComplexGetal.AssemblyInfoInputs.cache
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\ComplexGetal\ComplexGetal\obj\Debug\net8.0\ComplexGetal.AssemblyInfo.cs
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\ComplexGetal\ComplexGetal\obj\Debug\net8.0\ComplexGetal.csproj.CoreCompileInputs.cache
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\ComplexGetal\ComplexGetal\obj\Debug\net8.0\ComplexGetal.sourcelink.json
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\ComplexGetal\ComplexGetal\obj\Debug\net8.0\ComplexGetal.dll
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\ComplexGetal\ComplexGetal\obj\Debug\net8.0\refint\ComplexGetal.dll
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\ComplexGetal\ComplexGetal\obj\Debug\net8.0\ComplexGetal.pdb
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\ComplexGetal\ComplexGetal\obj\Debug\net8.0\ComplexGetal.genruntimeconfig.cache
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\ComplexGetal\ComplexGetal\obj\Debug\net8.0\ref\ComplexGetal.dll
