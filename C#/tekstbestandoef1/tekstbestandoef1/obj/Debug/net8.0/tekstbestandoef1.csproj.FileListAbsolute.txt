@@ -1,0 +1,16 @@
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\tekstbestandoef1\tekstbestandoef1\obj\Debug\net8.0\tekstbestandoef1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\tekstbestandoef1\tekstbestandoef1\obj\Debug\net8.0\tekstbestandoef1.AssemblyInfoInputs.cache
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\tekstbestandoef1\tekstbestandoef1\obj\Debug\net8.0\tekstbestandoef1.AssemblyInfo.cs
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\tekstbestandoef1\tekstbestandoef1\obj\Debug\net8.0\tekstbestandoef1.csproj.CoreCompileInputs.cache
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\tekstbestandoef1\tekstbestandoef1\obj\Debug\net8.0\tekstbestandoef1.sourcelink.json
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\tekstbestandoef1\tekstbestandoef1\bin\Debug\net8.0\tekstbestandoef1.exe
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\tekstbestandoef1\tekstbestandoef1\bin\Debug\net8.0\tekstbestandoef1.deps.json
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\tekstbestandoef1\tekstbestandoef1\bin\Debug\net8.0\tekstbestandoef1.runtimeconfig.json
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\tekstbestandoef1\tekstbestandoef1\bin\Debug\net8.0\tekstbestandoef1.dll
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\tekstbestandoef1\tekstbestandoef1\bin\Debug\net8.0\tekstbestandoef1.pdb
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\tekstbestandoef1\tekstbestandoef1\obj\Debug\net8.0\tekstbestandoef1.dll
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\tekstbestandoef1\tekstbestandoef1\obj\Debug\net8.0\refint\tekstbestandoef1.dll
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\tekstbestandoef1\tekstbestandoef1\obj\Debug\net8.0\tekstbestandoef1.pdb
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\tekstbestandoef1\tekstbestandoef1\obj\Debug\net8.0\tekstbestandoef1.genruntimeconfig.cache
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\tekstbestandoef1\tekstbestandoef1\obj\Debug\net8.0\ref\tekstbestandoef1.dll
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\tekstbestandoef1\tekstbestandoef1\bin\Debug\net8.0\teksst.csv

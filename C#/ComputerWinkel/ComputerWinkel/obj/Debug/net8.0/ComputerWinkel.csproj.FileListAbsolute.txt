@@ -1,0 +1,15 @@
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\ComputerWinkel\ComputerWinkel\bin\Debug\net8.0\ComputerWinkel.exe
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\ComputerWinkel\ComputerWinkel\bin\Debug\net8.0\ComputerWinkel.deps.json
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\ComputerWinkel\ComputerWinkel\bin\Debug\net8.0\ComputerWinkel.runtimeconfig.json
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\ComputerWinkel\ComputerWinkel\bin\Debug\net8.0\ComputerWinkel.dll
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\ComputerWinkel\ComputerWinkel\bin\Debug\net8.0\ComputerWinkel.pdb
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\ComputerWinkel\ComputerWinkel\obj\Debug\net8.0\ComputerWinkel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\ComputerWinkel\ComputerWinkel\obj\Debug\net8.0\ComputerWinkel.AssemblyInfoInputs.cache
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\ComputerWinkel\ComputerWinkel\obj\Debug\net8.0\ComputerWinkel.AssemblyInfo.cs
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\ComputerWinkel\ComputerWinkel\obj\Debug\net8.0\ComputerWinkel.csproj.CoreCompileInputs.cache
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\ComputerWinkel\ComputerWinkel\obj\Debug\net8.0\ComputerWinkel.sourcelink.json
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\ComputerWinkel\ComputerWinkel\obj\Debug\net8.0\ComputerWinkel.dll
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\ComputerWinkel\ComputerWinkel\obj\Debug\net8.0\refint\ComputerWinkel.dll
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\ComputerWinkel\ComputerWinkel\obj\Debug\net8.0\ComputerWinkel.pdb
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\ComputerWinkel\ComputerWinkel\obj\Debug\net8.0\ComputerWinkel.genruntimeconfig.cache
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\ComputerWinkel\ComputerWinkel\obj\Debug\net8.0\ref\ComputerWinkel.dll

@@ -1,11 +1,11 @@
-﻿Console.WriteLine("Geef een getal");
-int getal1 = Convert.ToInt32(Console.ReadLine());
-
-Console.WriteLine("Geef nog een getal");
-int getal2 = Convert.ToInt32(Console.ReadLine());
-
+﻿
 try
 {
+    Console.WriteLine("Geef een getal");
+    int getal1 = Convert.ToInt32(Console.ReadLine());
+
+    Console.WriteLine("Geef nog een getal");
+    int getal2 = Convert.ToInt32(Console.ReadLine());
     if (getal1 == getal2) { throw new GebruikerIsDomException(); }
     Console.WriteLine($"Resultaat: {getal1 / getal2}");
 }

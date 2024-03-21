@@ -66,7 +66,7 @@ def deleteContact():
     teller = 0
     for i in contacten:
         if i["naam"].lower() == naam.lower():
-            contacten[teller].pop()
+            contacten.pop(teller)
             print("naam verwijderd")
             teller += 1
             print("press enter to continue")
