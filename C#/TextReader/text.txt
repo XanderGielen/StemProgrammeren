@@ -1,0 +1,3 @@
+﻿Dit is een teksbestand
+Dit is een tweede regel
+Dit is de laatste regel

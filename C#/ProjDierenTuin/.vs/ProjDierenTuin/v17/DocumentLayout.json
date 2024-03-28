@@ -47,8 +47,7 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-06T08:52:09.443Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -60,8 +59,7 @@
               "RelativeToolTip": "ProjDierenTuin\\Casbeest.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-06T08:54:26.817Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-06T08:54:26.817Z"
             },
             {
               "$type": "Document",
@@ -73,8 +71,7 @@
               "RelativeToolTip": "ProjDierenTuin\\Kip.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-06T09:23:14.983Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-06T09:23:14.983Z"
             },
             {
               "$type": "Document",
@@ -86,8 +83,7 @@
               "RelativeToolTip": "ProjDierenTuin\\KuikenPiep.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAADKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-06T09:21:12.239Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-06T09:21:12.239Z"
             },
             {
               "$type": "Document",
@@ -99,8 +95,7 @@
               "RelativeToolTip": "ProjDierenTuin\\Dodovogel.cs",
               "ViewState": "AQIAAAQAAAAAAAAAAADwvwsAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-06T08:57:52.466Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-06T08:57:52.466Z"
             },
             {
               "$type": "Document",
@@ -110,7 +105,7 @@
               "RelativeDocumentMoniker": "ProjDierenTuin\\Program.cs",
               "ToolTip": "C:\\Users\\xander.gielen\\Documents\\GitHub\\StemProgrammeren\\C#\\ProjDierenTuin\\ProjDierenTuin\\Program.cs",
               "RelativeToolTip": "ProjDierenTuin\\Program.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAADUAAAATAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-06T08:45:47.364Z",
               "EditorCaption": ""

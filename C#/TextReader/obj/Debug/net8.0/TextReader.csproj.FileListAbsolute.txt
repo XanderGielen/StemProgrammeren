@@ -1,0 +1,17 @@
+C:\Users\Bart\Documents\GitHub\ZieScherperOefeningen\TextReader\bin\Debug\net8.0\TextReader.exe
+C:\Users\Bart\Documents\GitHub\ZieScherperOefeningen\TextReader\bin\Debug\net8.0\text.txt
+C:\Users\Bart\Documents\GitHub\ZieScherperOefeningen\TextReader\bin\Debug\net8.0\TextReader.deps.json
+C:\Users\Bart\Documents\GitHub\ZieScherperOefeningen\TextReader\bin\Debug\net8.0\TextReader.runtimeconfig.json
+C:\Users\Bart\Documents\GitHub\ZieScherperOefeningen\TextReader\bin\Debug\net8.0\TextReader.dll
+C:\Users\Bart\Documents\GitHub\ZieScherperOefeningen\TextReader\bin\Debug\net8.0\TextReader.pdb
+C:\Users\Bart\Documents\GitHub\ZieScherperOefeningen\TextReader\obj\Debug\net8.0\TextReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bart\Documents\GitHub\ZieScherperOefeningen\TextReader\obj\Debug\net8.0\TextReader.AssemblyInfoInputs.cache
+C:\Users\Bart\Documents\GitHub\ZieScherperOefeningen\TextReader\obj\Debug\net8.0\TextReader.AssemblyInfo.cs
+C:\Users\Bart\Documents\GitHub\ZieScherperOefeningen\TextReader\obj\Debug\net8.0\TextReader.csproj.CoreCompileInputs.cache
+C:\Users\Bart\Documents\GitHub\ZieScherperOefeningen\TextReader\obj\Debug\net8.0\TextReader.sourcelink.json
+C:\Users\Bart\Documents\GitHub\ZieScherperOefeningen\TextReader\obj\Debug\net8.0\TextReader.dll
+C:\Users\Bart\Documents\GitHub\ZieScherperOefeningen\TextReader\obj\Debug\net8.0\refint\TextReader.dll
+C:\Users\Bart\Documents\GitHub\ZieScherperOefeningen\TextReader\obj\Debug\net8.0\TextReader.pdb
+C:\Users\Bart\Documents\GitHub\ZieScherperOefeningen\TextReader\obj\Debug\net8.0\TextReader.genruntimeconfig.cache
+C:\Users\Bart\Documents\GitHub\ZieScherperOefeningen\TextReader\obj\Debug\net8.0\ref\TextReader.dll
+C:\Users\Bart\Documents\GitHub\ZieScherperOefeningen\TextReader\bin\Debug\net8.0\waardes.csv

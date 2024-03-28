@@ -1,0 +1,17 @@
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\LottoReader\obj\Debug\net8.0\LottoReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\LottoReader\obj\Debug\net8.0\LottoReader.AssemblyInfoInputs.cache
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\LottoReader\obj\Debug\net8.0\LottoReader.AssemblyInfo.cs
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\LottoReader\obj\Debug\net8.0\LottoReader.csproj.CoreCompileInputs.cache
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\LottoReader\obj\Debug\net8.0\LottoReader.sourcelink.json
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\LottoReader\bin\Debug\net8.0\LottoReader.exe
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\LottoReader\bin\Debug\net8.0\lotto-financialdata-NL-2023.csv
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\LottoReader\bin\Debug\net8.0\lotto-gamedata-NL-2023.csv
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\LottoReader\bin\Debug\net8.0\LottoReader.deps.json
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\LottoReader\bin\Debug\net8.0\LottoReader.runtimeconfig.json
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\LottoReader\bin\Debug\net8.0\LottoReader.dll
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\LottoReader\bin\Debug\net8.0\LottoReader.pdb
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\LottoReader\obj\Debug\net8.0\LottoReader.dll
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\LottoReader\obj\Debug\net8.0\refint\LottoReader.dll
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\LottoReader\obj\Debug\net8.0\LottoReader.pdb
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\LottoReader\obj\Debug\net8.0\LottoReader.genruntimeconfig.cache
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\LottoReader\obj\Debug\net8.0\ref\LottoReader.dll
