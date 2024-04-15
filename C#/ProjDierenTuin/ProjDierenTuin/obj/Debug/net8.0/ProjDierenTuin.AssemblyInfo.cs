@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProjDierenTuin")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6f86d6fc68cd0f2daef48f8cf52aa7c5950165ee")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+58e503a0bfcfc0d0adda45cf04d3c9517d655764")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProjDierenTuin")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProjDierenTuin")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

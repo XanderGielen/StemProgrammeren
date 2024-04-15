@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "H14 Dierentuin/1.0.0": {
+        "runtime": {
+          "H14 Dierentuin.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "H14 Dierentuin/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

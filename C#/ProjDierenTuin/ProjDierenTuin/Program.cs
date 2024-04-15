@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq.Expressions;
 using System.Reflection.Emit;
+using System.Text.Json;
 
 List<Dier> dieren = new List<Dier>();
 
@@ -15,13 +16,15 @@ dieren.Add(kip1);
 Casbeest casvankurkel = new Casbeest() { gewicht = 4000000000 };
 dieren.Add(casvankurkel);
 
+string fileName = "dierentuin.json";
+
 string input = "";
 while (true)
 {
     double totGewicht = 0;
     int teller = 0;
 
-    Console.WriteLine("1.Dier verwijderen:\r\n2.Diergewicht gemiddelde:\r\n3.Dier praten: \r\n4.Opnieuw beginnen: ");
+    Console.WriteLine("1.Dier verwijderen:\r\n2.Diergewicht gemiddelde:\r\n3.Dier praten: \r\n4.Opnieuw beginnen: \r\n5.Dierentuin opslaan: \r\n6.Dierentuin inlezen: ");
     input = Console.ReadLine();
     if (input == "q") { break; }
     if(input == "1") { int welkDier = Convert.ToInt32(Console.ReadLine()); dieren.Remove(dieren[welkDier]); }
@@ -52,6 +55,18 @@ while (true)
         dieren.Add(casvankurkel);
         totGewicht = 0;
         teller = 0;
+    }
+    else if (input == "5")
+    {
+        string dierenJson = JsonSerializer.Serialize(dieren[0]);
+        Console.WriteLine(dierenJson);
+        File.WriteAllText(fileName, dierenJson);
+    }
+    else if (input == "6")
+    {
+        string dierenJson = File.ReadAllText(fileName);
+        Dier? ingelezenDier = JsonSerializer.Deserialize<Dier>(dierenJson);
+        Console.WriteLine(dierenJson);
     }
 }
 

@@ -1,0 +1,15 @@
+C:\Users\Bart\Documents\GitHub\ZieScherperOefeningen\H14 Dierentuin\bin\Debug\net8.0\H14 Dierentuin.exe
+C:\Users\Bart\Documents\GitHub\ZieScherperOefeningen\H14 Dierentuin\bin\Debug\net8.0\H14 Dierentuin.deps.json
+C:\Users\Bart\Documents\GitHub\ZieScherperOefeningen\H14 Dierentuin\bin\Debug\net8.0\H14 Dierentuin.runtimeconfig.json
+C:\Users\Bart\Documents\GitHub\ZieScherperOefeningen\H14 Dierentuin\bin\Debug\net8.0\H14 Dierentuin.dll
+C:\Users\Bart\Documents\GitHub\ZieScherperOefeningen\H14 Dierentuin\bin\Debug\net8.0\H14 Dierentuin.pdb
+C:\Users\Bart\Documents\GitHub\ZieScherperOefeningen\H14 Dierentuin\obj\Debug\net8.0\H14 Dierentuin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bart\Documents\GitHub\ZieScherperOefeningen\H14 Dierentuin\obj\Debug\net8.0\H14 Dierentuin.AssemblyInfoInputs.cache
+C:\Users\Bart\Documents\GitHub\ZieScherperOefeningen\H14 Dierentuin\obj\Debug\net8.0\H14 Dierentuin.AssemblyInfo.cs
+C:\Users\Bart\Documents\GitHub\ZieScherperOefeningen\H14 Dierentuin\obj\Debug\net8.0\H14 Dierentuin.csproj.CoreCompileInputs.cache
+C:\Users\Bart\Documents\GitHub\ZieScherperOefeningen\H14 Dierentuin\obj\Debug\net8.0\H14 Dierentuin.sourcelink.json
+C:\Users\Bart\Documents\GitHub\ZieScherperOefeningen\H14 Dierentuin\obj\Debug\net8.0\H14 Dierentuin.dll
+C:\Users\Bart\Documents\GitHub\ZieScherperOefeningen\H14 Dierentuin\obj\Debug\net8.0\refint\H14 Dierentuin.dll
+C:\Users\Bart\Documents\GitHub\ZieScherperOefeningen\H14 Dierentuin\obj\Debug\net8.0\H14 Dierentuin.pdb
+C:\Users\Bart\Documents\GitHub\ZieScherperOefeningen\H14 Dierentuin\obj\Debug\net8.0\H14 Dierentuin.genruntimeconfig.cache
+C:\Users\Bart\Documents\GitHub\ZieScherperOefeningen\H14 Dierentuin\obj\Debug\net8.0\ref\H14 Dierentuin.dll
