@@ -8,3 +8,4 @@ C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\popu\popu\bin\Debug\
 C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\popu\popu\bin\Debug\popu.pdb
 C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\popu\popu\obj\Debug\popu.exe
 C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\popu\popu\obj\Debug\popu.pdb
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\popu\popu\obj\Debug\popu.Form2.resources
