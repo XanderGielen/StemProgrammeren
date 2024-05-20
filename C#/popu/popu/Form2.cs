@@ -3,6 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
+using System.Diagnostics;
 using System.Drawing;
 using System.Linq;
 using System.Text;
@@ -35,6 +36,8 @@ namespace popu
 
                 foreach (double stabielewaarde in model.StabieleWaardenTolerantie(3))
                 {
+                    //Debug.WriteLine(k);
+                    
                     chart1.Series[0].Points.AddXY(k, stabielewaarde);
                 }
             }

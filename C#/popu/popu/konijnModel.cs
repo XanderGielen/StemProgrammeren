@@ -17,23 +17,33 @@ namespace ChaosbunnySimulation
         }
 
         public List<double> Populaties { get; set; } = new List<double>();// Hier slaan we alle populaties op
-        
-        public List<double> StabieleWaardenTolerantie(int afronding)
+        public List<double> StabieleWaardenTolerantie(int afronding, int projectie)
         {
             var stabieleWaardes = new List<double>();
+            int transcientWaarde = -1;
 
-            for (int i = 1; i < Populaties.Count; i++)
+            for (int i = 1; i < projectie; i++)
             {
-                for (int j = i + 1; j < Populaties.Count; j++)
+                //check voor elk element of dat de delta kleiner is dan 10^-5
+                if (IsGelijkAan(i, i+projectie))
                 {
-                    //check voor elk element of dat de delta kleiner is dan 10^-5
-                    if ((Populaties[i] - Populaties[j]) <= 1e-5)
-                    {
-                        stabieleWaardes.Add(Math.Round(Populaties[i], afronding));
-                        break;
-                    }
+                    transcientWaarde = i;
+                    break;
                 }
             }
+
+            int nakijker = projectie;
+            while (IsGelijkAan(transcientWaarde, transcientWaarde + nakijker))
+            {
+                nakijker /= 2;
+            }
+            for(int i = 1; i < nakijker; i++)
+            {
+                transcientWaarde++;
+            }
+
+
+
             return stabieleWaardes.Distinct().ToList();
         }
         
@@ -52,6 +62,11 @@ namespace ChaosbunnySimulation
                 Populaties.Add(fn);
                 mainForm.chart1.Series[0].Points.AddXY(i, fn); // Voeg volgend punt toe
             }
+        }
+
+        public bool IsGelijkAan(int index1, int index2)
+        {
+            return -1e-5 <= (Populaties[index1] - Populaties[index2]) && (Populaties[index1] - Populaties[index2]) <= 1e-5;
         }
     }
 

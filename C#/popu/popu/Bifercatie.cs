@@ -39,7 +39,6 @@ namespace popu
 
         public void Update(int N, double k)
         {
-            mainForm.chart1.Series[0].Points.Clear();
             double fn = 0.5; // Start-populatie
 
             for (int i = 0; i < N; i++)

@@ -3,24 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\xander.gielen\\Documents\\GitHub\\StemProgrammeren\\C#\\popu\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6F655BCF-6173-4446-9C7F-97E7E8D69CEE}|popu\\popu.csproj|c:\\users\\xander.gielen\\documents\\github\\stemprogrammeren\\c#\\popu\\popu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6F655BCF-6173-4446-9C7F-97E7E8D69CEE}|popu\\popu.csproj|c:\\users\\xander.gielen\\documents\\github\\stemprogrammeren\\c#\\popu\\popu\\konijnmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F655BCF-6173-4446-9C7F-97E7E8D69CEE}|popu\\popu.csproj|solutionrelative:popu\\konijnmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F655BCF-6173-4446-9C7F-97E7E8D69CEE}|popu\\popu.csproj|C:\\Users\\xander.gielen\\Documents\\GitHub\\StemProgrammeren\\C#\\popu\\popu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6F655BCF-6173-4446-9C7F-97E7E8D69CEE}|popu\\popu.csproj|solutionrelative:popu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6F655BCF-6173-4446-9C7F-97E7E8D69CEE}|popu\\popu.csproj|c:\\users\\xander.gielen\\documents\\github\\stemprogrammeren\\c#\\popu\\popu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6F655BCF-6173-4446-9C7F-97E7E8D69CEE}|popu\\popu.csproj|C:\\Users\\xander.gielen\\Documents\\GitHub\\StemProgrammeren\\C#\\popu\\popu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6F655BCF-6173-4446-9C7F-97E7E8D69CEE}|popu\\popu.csproj|solutionrelative:popu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6F655BCF-6173-4446-9C7F-97E7E8D69CEE}|popu\\popu.csproj|c:\\users\\xander.gielen\\documents\\github\\stemprogrammeren\\c#\\popu\\popu\\bifercatie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F655BCF-6173-4446-9C7F-97E7E8D69CEE}|popu\\popu.csproj|solutionrelative:popu\\bifercatie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6F655BCF-6173-4446-9C7F-97E7E8D69CEE}|popu\\popu.csproj|c:\\users\\xander.gielen\\documents\\github\\stemprogrammeren\\c#\\popu\\popu\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{6F655BCF-6173-4446-9C7F-97E7E8D69CEE}|popu\\popu.csproj|solutionrelative:popu\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6F655BCF-6173-4446-9C7F-97E7E8D69CEE}|popu\\popu.csproj|c:\\users\\xander.gielen\\documents\\github\\stemprogrammeren\\c#\\popu\\popu\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F655BCF-6173-4446-9C7F-97E7E8D69CEE}|popu\\popu.csproj|solutionrelative:popu\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,11 +22,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "konijnModel.cs",
+              "DocumentMoniker": "C:\\Users\\xander.gielen\\Documents\\GitHub\\StemProgrammeren\\C#\\popu\\popu\\konijnModel.cs",
+              "RelativeDocumentMoniker": "popu\\konijnModel.cs",
+              "ToolTip": "C:\\Users\\xander.gielen\\Documents\\GitHub\\StemProgrammeren\\C#\\popu\\popu\\konijnModel.cs",
+              "RelativeToolTip": "popu\\konijnModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEQAAABwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T08:30:55.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\xander.gielen\\Documents\\GitHub\\StemProgrammeren\\C#\\popu\\popu\\Form1.cs",
+              "RelativeDocumentMoniker": "popu\\Form1.cs",
+              "ToolTip": "C:\\Users\\xander.gielen\\Documents\\GitHub\\StemProgrammeren\\C#\\popu\\popu\\Form1.cs",
+              "RelativeToolTip": "popu\\Form1.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAowCYAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T12:44:46.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\xander.gielen\\Documents\\GitHub\\StemProgrammeren\\C#\\popu\\popu\\Program.cs",
               "RelativeDocumentMoniker": "popu\\Program.cs",
@@ -42,59 +59,7 @@
               "RelativeToolTip": "popu\\Program.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T13:24:02.313Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Bifercatie.cs",
-              "DocumentMoniker": "C:\\Users\\xander.gielen\\Documents\\GitHub\\StemProgrammeren\\C#\\popu\\popu\\Bifercatie.cs",
-              "RelativeDocumentMoniker": "popu\\Bifercatie.cs",
-              "ToolTip": "C:\\Users\\xander.gielen\\Documents\\GitHub\\StemProgrammeren\\C#\\popu\\popu\\Bifercatie.cs",
-              "RelativeToolTip": "popu\\Bifercatie.cs",
-              "ViewState": "AQIAACUAAAAAAAAAAAAowDMAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T13:12:24.332Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Form2.cs",
-              "DocumentMoniker": "C:\\Users\\xander.gielen\\Documents\\GitHub\\StemProgrammeren\\C#\\popu\\popu\\Form2.cs",
-              "RelativeDocumentMoniker": "popu\\Form2.cs",
-              "ToolTip": "C:\\Users\\xander.gielen\\Documents\\GitHub\\StemProgrammeren\\C#\\popu\\popu\\Form2.cs",
-              "RelativeToolTip": "popu\\Form2.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAQwCUAAABFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T13:05:11.757Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Form2.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\xander.gielen\\Documents\\GitHub\\StemProgrammeren\\C#\\popu\\popu\\Form2.cs",
-              "RelativeDocumentMoniker": "popu\\Form2.cs",
-              "ToolTip": "C:\\Users\\xander.gielen\\Documents\\GitHub\\StemProgrammeren\\C#\\popu\\popu\\Form2.cs [Design]",
-              "RelativeToolTip": "popu\\Form2.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T13:03:57.735Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\xander.gielen\\Documents\\GitHub\\StemProgrammeren\\C#\\popu\\popu\\Form1.cs",
-              "RelativeDocumentMoniker": "popu\\Form1.cs",
-              "ToolTip": "C:\\Users\\xander.gielen\\Documents\\GitHub\\StemProgrammeren\\C#\\popu\\popu\\Form1.cs",
-              "RelativeToolTip": "popu\\Form1.cs",
-              "ViewState": "AQIAACoAAAAAAAAAAAAYwDAAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T12:44:46.799Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-13T13:24:02.313Z"
             }
           ]
         }

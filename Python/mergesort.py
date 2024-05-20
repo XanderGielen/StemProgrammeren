@@ -50,9 +50,11 @@ lstnummers = [10,100,1000]
 timeSortAlgoX(lstnummers[0])
 timeSortAlgoX(lstnummers[1])
 timeSortAlgoX(lstnummers[2])
+#timeSortAlgoX(lstnummers[3])
+
 
 plt.plot(lstnummers,y)
 plt.xlabel("aantal elementen")
 plt.ylabel("mili")
-plt.title("tijdscomplex insertionsort")
+plt.title("tijdscomplexiteit MergeSort")
 plt.show()
