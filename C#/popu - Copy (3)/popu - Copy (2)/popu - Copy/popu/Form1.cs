@@ -22,7 +22,7 @@ namespace popu
         public void button1_Click(object sender, EventArgs e)
         {
             textBox2.Clear();//maak de textbox leeg
-            int M = 32; //projectie
+            int M = 128; //projectie
             int N = M *2; // Aantal jaren om te simuleren
 
             // Maak konijmodel object
@@ -36,7 +36,7 @@ namespace popu
 
             finally
             {
-                foreach (double stabielewaarde in model.StabieleWaardenTolerantie(3, M))
+                foreach (double stabielewaarde in model.StabieleWaardenTolerantie(5, M))
                 {
                     textBox2.Text += stabielewaarde.ToString() + "\r\n";//voeg elke stabielewaarde toe aan de textbox
                 }

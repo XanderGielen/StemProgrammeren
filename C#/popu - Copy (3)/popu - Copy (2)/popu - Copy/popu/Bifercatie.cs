@@ -1,55 +1,67 @@
-﻿using popu;
+﻿using ChaosbunnySimulation;
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Reflection;
-using System.Windows.Forms.DataVisualization.Charting;
+using System.Text;
+using System.Threading.Tasks;
 
-namespace ChaosbunnySimulation
+namespace popu
 {
-    class KonijnModel
+    
+    internal class Bifercatie
     {
-
-        private Form1 mainForm;
-        public KonijnModel(Form1 formulier)
+        private Form2 mainForm;
+        public Bifercatie(Form2 formulier)
         {
             mainForm = formulier; // Maak constructor dat er voor zorgt dat we het formulier kunnen gebruiken
         }
 
         public List<double> Populaties { get; set; } = new List<double>();// Hier slaan we alle populaties op
+
         public List<double> StabieleWaardenTolerantie(int afronding, int projectie)
         {
             var stabieleWaardes = new List<double>();
             int transcientWaarde = -1;
+            int populatieLengte = Populaties.Count;
 
             for (int i = 1; i < projectie; i++)
             {
                 //check voor elk element of dat de delta kleiner is dan 10^-5
-                if (IsGelijkAan(i, i+projectie))
+                if (IsGelijkAan(i, i + projectie))
                 {
                     transcientWaarde = i;
                     break;
                 }
             }
 
+            if (transcientWaarde < 0) return stabieleWaardes;
+
             int nakijker = projectie;
-            while (IsGelijkAan(transcientWaarde, transcientWaarde + nakijker))
+            while (IsGelijkAan(populatieLengte - 1, populatieLengte - 1 - nakijker) && nakijker > 0)
             {
                 nakijker /= 2;
             }
-            for(int i = 1; i < nakijker; i++)
+            if (nakijker == 0) nakijker = 1;
+            else nakijker *= 2;
+
+            //if (IsGelijkAan(populatieLengte - 1, populatieLengte - 1 - nakijker))
+
+            //for(int i = 1; i < nakijker; i++)
+            for (int i = populatieLengte - nakijker; i < populatieLengte; i++)
             {
-                transcientWaarde++;
+                stabieleWaardes.Add(Populaties[i]);
+                //transcientWaarde++;
             }
 
 
+            return stabieleWaardes;
 
-            return stabieleWaardes.Distinct().ToList();
+            //return stabieleWaardes.Distinct().ToList();
         }
-        
+
         public void Update(int N, double k)
         {
-            mainForm.chart1.Series[0].Points.Clear();
+            //mainForm.chart1.Series[0].Points.Clear();
             double fn = 0.5; // Start-populatie
 
             for (int i = 0; i < N; i++)
@@ -60,7 +72,7 @@ namespace ChaosbunnySimulation
                     throw new ValueOutOfRangeException();
                 }
                 Populaties.Add(fn);
-                mainForm.chart1.Series[0].Points.AddXY(i, fn); // Voeg volgend punt toe
+                //mainForm.chart1.Series[0].Points.AddXY(i, fn); // Voeg volgend punt toe
             }
         }
 
@@ -71,11 +83,8 @@ namespace ChaosbunnySimulation
     }
 
 
-
-
-
     public class ValueOutOfRangeException : Exception
     {
     }
-
 }
+

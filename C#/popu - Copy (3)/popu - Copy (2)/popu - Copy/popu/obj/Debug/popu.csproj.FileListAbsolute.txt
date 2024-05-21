@@ -1,0 +1,33 @@
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\popu\popu\obj\Debug\popu.csproj.AssemblyReference.cache
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\popu\popu\obj\Debug\popu.Form1.resources
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\popu\popu\obj\Debug\popu.Properties.Resources.resources
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\popu\popu\obj\Debug\popu.csproj.GenerateResource.cache
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\popu\popu\obj\Debug\popu.csproj.CoreCompileInputs.cache
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\popu\popu\bin\Debug\popu.exe.config
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\popu\popu\bin\Debug\popu.exe
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\popu\popu\bin\Debug\popu.pdb
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\popu\popu\obj\Debug\popu.exe
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\popu\popu\obj\Debug\popu.pdb
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\popu\popu\obj\Debug\popu.Form2.resources
+C:\Users\Bart\Downloads\popu - Copy (2)\popu - Copy\popu\bin\Debug\popu.exe.config
+C:\Users\Bart\Downloads\popu - Copy (2)\popu - Copy\popu\bin\Debug\popu.exe
+C:\Users\Bart\Downloads\popu - Copy (2)\popu - Copy\popu\bin\Debug\popu.pdb
+C:\Users\Bart\Downloads\popu - Copy (2)\popu - Copy\popu\obj\Debug\popu.csproj.AssemblyReference.cache
+C:\Users\Bart\Downloads\popu - Copy (2)\popu - Copy\popu\obj\Debug\popu.Form1.resources
+C:\Users\Bart\Downloads\popu - Copy (2)\popu - Copy\popu\obj\Debug\popu.Form2.resources
+C:\Users\Bart\Downloads\popu - Copy (2)\popu - Copy\popu\obj\Debug\popu.Properties.Resources.resources
+C:\Users\Bart\Downloads\popu - Copy (2)\popu - Copy\popu\obj\Debug\popu.csproj.GenerateResource.cache
+C:\Users\Bart\Downloads\popu - Copy (2)\popu - Copy\popu\obj\Debug\popu.csproj.CoreCompileInputs.cache
+C:\Users\Bart\Downloads\popu - Copy (2)\popu - Copy\popu\obj\Debug\popu.exe
+C:\Users\Bart\Downloads\popu - Copy (2)\popu - Copy\popu\obj\Debug\popu.pdb
+C:\Users\xander.gielen\Downloads\popu - Copy (3)\popu - Copy (2)\popu - Copy\popu\bin\Debug\popu.exe.config
+C:\Users\xander.gielen\Downloads\popu - Copy (3)\popu - Copy (2)\popu - Copy\popu\bin\Debug\popu.exe
+C:\Users\xander.gielen\Downloads\popu - Copy (3)\popu - Copy (2)\popu - Copy\popu\bin\Debug\popu.pdb
+C:\Users\xander.gielen\Downloads\popu - Copy (3)\popu - Copy (2)\popu - Copy\popu\obj\Debug\popu.csproj.AssemblyReference.cache
+C:\Users\xander.gielen\Downloads\popu - Copy (3)\popu - Copy (2)\popu - Copy\popu\obj\Debug\popu.Form1.resources
+C:\Users\xander.gielen\Downloads\popu - Copy (3)\popu - Copy (2)\popu - Copy\popu\obj\Debug\popu.Form2.resources
+C:\Users\xander.gielen\Downloads\popu - Copy (3)\popu - Copy (2)\popu - Copy\popu\obj\Debug\popu.Properties.Resources.resources
+C:\Users\xander.gielen\Downloads\popu - Copy (3)\popu - Copy (2)\popu - Copy\popu\obj\Debug\popu.csproj.GenerateResource.cache
+C:\Users\xander.gielen\Downloads\popu - Copy (3)\popu - Copy (2)\popu - Copy\popu\obj\Debug\popu.csproj.CoreCompileInputs.cache
+C:\Users\xander.gielen\Downloads\popu - Copy (3)\popu - Copy (2)\popu - Copy\popu\obj\Debug\popu.exe
+C:\Users\xander.gielen\Downloads\popu - Copy (3)\popu - Copy (2)\popu - Copy\popu\obj\Debug\popu.pdb
