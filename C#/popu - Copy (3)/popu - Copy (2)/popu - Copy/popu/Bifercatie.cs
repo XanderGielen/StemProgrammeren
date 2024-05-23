@@ -44,9 +44,6 @@ namespace popu
             if (nakijker == 0) nakijker = 1;
             else nakijker *= 2;
 
-            //if (IsGelijkAan(populatieLengte - 1, populatieLengte - 1 - nakijker))
-
-            //for(int i = 1; i < nakijker; i++)
             for (int i = populatieLengte - nakijker; i < populatieLengte; i++)
             {
                 stabieleWaardes.Add(Populaties[i]);
@@ -55,13 +52,10 @@ namespace popu
 
 
             return stabieleWaardes;
-
-            //return stabieleWaardes.Distinct().ToList();
         }
 
         public void Update(int N, double k)
         {
-            //mainForm.chart1.Series[0].Points.Clear();
             double fn = 0.5; // Start-populatie
 
             for (int i = 0; i < N; i++)
@@ -72,7 +66,6 @@ namespace popu
                     throw new ValueOutOfRangeException();
                 }
                 Populaties.Add(fn);
-                //mainForm.chart1.Series[0].Points.AddXY(i, fn); // Voeg volgend punt toe
             }
         }
 

@@ -44,19 +44,13 @@ namespace ChaosbunnySimulation
             if (nakijker == 0) nakijker = 1;
             else nakijker *= 2;
 
-            //if (IsGelijkAan(populatieLengte - 1, populatieLengte - 1 - nakijker))
-
-            //for(int i = 1; i < nakijker; i++)
             for (int i = populatieLengte - nakijker; i < populatieLengte; i++)
             {
                 stabieleWaardes.Add(Populaties[i]);
-                //transcientWaarde++;
             }
 
 
             return stabieleWaardes;
-
-            //return stabieleWaardes.Distinct().ToList();
         }
         
         public void Update(int N, double k)
