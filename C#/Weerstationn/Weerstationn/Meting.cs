@@ -46,12 +46,12 @@ namespace Weerstationn
             LaatsteMetingen.Add(toegevoegdeWaarde);
         }
 
-        private double OmgezetteWaarde()
+        public double OmgezetteWaarde()
         {
             return OmgezetteWaarde(LaatsteMetingen.Last());
         }
 
-        private double OmgezetteWaarde(double x)
+        public double OmgezetteWaarde(double x)
         {
             return x * slope + intercept;
         }
