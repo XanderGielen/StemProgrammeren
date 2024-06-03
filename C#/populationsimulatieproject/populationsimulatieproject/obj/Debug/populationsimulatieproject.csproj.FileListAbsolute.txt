@@ -1,9 +1,0 @@
-C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\populationsimulatieproject\populationsimulatieproject\bin\Debug\populationsimulatieproject.exe.config
-C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\populationsimulatieproject\populationsimulatieproject\bin\Debug\populationsimulatieproject.exe
-C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\populationsimulatieproject\populationsimulatieproject\bin\Debug\populationsimulatieproject.pdb
-C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\populationsimulatieproject\populationsimulatieproject\obj\Debug\populationsimulatieproject.csproj.AssemblyReference.cache
-C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\populationsimulatieproject\populationsimulatieproject\obj\Debug\populationsimulatieproject.Service1.resources
-C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\populationsimulatieproject\populationsimulatieproject\obj\Debug\populationsimulatieproject.csproj.GenerateResource.cache
-C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\populationsimulatieproject\populationsimulatieproject\obj\Debug\populationsimulatieproject.csproj.CoreCompileInputs.cache
-C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\populationsimulatieproject\populationsimulatieproject\obj\Debug\populationsimulatieproject.exe
-C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\populationsimulatieproject\populationsimulatieproject\obj\Debug\populationsimulatieproject.pdb

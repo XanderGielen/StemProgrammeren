@@ -1,0 +1,15 @@
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\Weerstationn\Weerstationn\bin\Debug\net8.0\Weerstationn.exe
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\Weerstationn\Weerstationn\bin\Debug\net8.0\Weerstationn.deps.json
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\Weerstationn\Weerstationn\bin\Debug\net8.0\Weerstationn.runtimeconfig.json
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\Weerstationn\Weerstationn\bin\Debug\net8.0\Weerstationn.dll
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\Weerstationn\Weerstationn\bin\Debug\net8.0\Weerstationn.pdb
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\Weerstationn\Weerstationn\obj\Debug\net8.0\Weerstationn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\Weerstationn\Weerstationn\obj\Debug\net8.0\Weerstationn.AssemblyInfoInputs.cache
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\Weerstationn\Weerstationn\obj\Debug\net8.0\Weerstationn.AssemblyInfo.cs
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\Weerstationn\Weerstationn\obj\Debug\net8.0\Weerstationn.csproj.CoreCompileInputs.cache
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\Weerstationn\Weerstationn\obj\Debug\net8.0\Weerstationn.sourcelink.json
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\Weerstationn\Weerstationn\obj\Debug\net8.0\Weerstationn.dll
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\Weerstationn\Weerstationn\obj\Debug\net8.0\refint\Weerstationn.dll
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\Weerstationn\Weerstationn\obj\Debug\net8.0\Weerstationn.pdb
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\Weerstationn\Weerstationn\obj\Debug\net8.0\Weerstationn.genruntimeconfig.cache
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\Weerstationn\Weerstationn\obj\Debug\net8.0\ref\Weerstationn.dll
