@@ -1,0 +1,16 @@
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\examenVraag\examenVraag\bin\Debug\net8.0\OpmaakB.csv
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\examenVraag\examenVraag\bin\Debug\net8.0\examenVraag.exe
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\examenVraag\examenVraag\bin\Debug\net8.0\examenVraag.deps.json
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\examenVraag\examenVraag\bin\Debug\net8.0\examenVraag.runtimeconfig.json
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\examenVraag\examenVraag\bin\Debug\net8.0\examenVraag.dll
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\examenVraag\examenVraag\bin\Debug\net8.0\examenVraag.pdb
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\examenVraag\examenVraag\obj\Debug\net8.0\examenVraag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\examenVraag\examenVraag\obj\Debug\net8.0\examenVraag.AssemblyInfoInputs.cache
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\examenVraag\examenVraag\obj\Debug\net8.0\examenVraag.AssemblyInfo.cs
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\examenVraag\examenVraag\obj\Debug\net8.0\examenVraag.csproj.CoreCompileInputs.cache
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\examenVraag\examenVraag\obj\Debug\net8.0\examenVraag.sourcelink.json
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\examenVraag\examenVraag\obj\Debug\net8.0\examenVraag.dll
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\examenVraag\examenVraag\obj\Debug\net8.0\refint\examenVraag.dll
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\examenVraag\examenVraag\obj\Debug\net8.0\examenVraag.pdb
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\examenVraag\examenVraag\obj\Debug\net8.0\examenVraag.genruntimeconfig.cache
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\examenVraag\examenVraag\obj\Debug\net8.0\ref\examenVraag.dll

@@ -1,0 +1,16 @@
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\Extra - digits of pi\Extra - digits of pi\bin\Debug\net8.0\Extra - digits of pi.exe
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\Extra - digits of pi\Extra - digits of pi\bin\Debug\net8.0\Extra - digits of pi.deps.json
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\Extra - digits of pi\Extra - digits of pi\bin\Debug\net8.0\Extra - digits of pi.runtimeconfig.json
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\Extra - digits of pi\Extra - digits of pi\bin\Debug\net8.0\Extra - digits of pi.dll
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\Extra - digits of pi\Extra - digits of pi\bin\Debug\net8.0\Extra - digits of pi.pdb
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\Extra - digits of pi\Extra - digits of pi\obj\Debug\net8.0\Extra - digits of pi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\Extra - digits of pi\Extra - digits of pi\obj\Debug\net8.0\Extra - digits of pi.AssemblyInfoInputs.cache
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\Extra - digits of pi\Extra - digits of pi\obj\Debug\net8.0\Extra - digits of pi.AssemblyInfo.cs
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\Extra - digits of pi\Extra - digits of pi\obj\Debug\net8.0\Extra - digits of pi.csproj.CoreCompileInputs.cache
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\Extra - digits of pi\Extra - digits of pi\obj\Debug\net8.0\Extra - digits of pi.sourcelink.json
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\Extra - digits of pi\Extra - digits of pi\obj\Debug\net8.0\Extra - digits of pi.dll
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\Extra - digits of pi\Extra - digits of pi\obj\Debug\net8.0\refint\Extra - digits of pi.dll
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\Extra - digits of pi\Extra - digits of pi\obj\Debug\net8.0\Extra - digits of pi.pdb
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\Extra - digits of pi\Extra - digits of pi\obj\Debug\net8.0\Extra - digits of pi.genruntimeconfig.cache
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\Extra - digits of pi\Extra - digits of pi\obj\Debug\net8.0\ref\Extra - digits of pi.dll
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\Extra - digits of pi\Extra - digits of pi\bin\Debug\net8.0\pidigits.txt

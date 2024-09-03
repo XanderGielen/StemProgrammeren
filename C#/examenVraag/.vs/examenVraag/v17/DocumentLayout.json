@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\xander.gielen\\Documents\\GitHub\\StemProgrammeren\\C#\\examenVraag\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93A56E9B-F596-43FF-AEB9-C8FE5682297B}|examenVraag\\examenVraag.csproj|c:\\users\\xander.gielen\\documents\\github\\stemprogrammeren\\c#\\examenvraag\\examenvraag\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93A56E9B-F596-43FF-AEB9-C8FE5682297B}|examenVraag\\examenVraag.csproj|solutionrelative:examenvraag\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93A56E9B-F596-43FF-AEB9-C8FE5682297B}|examenVraag\\examenVraag.csproj|c:\\users\\xander.gielen\\documents\\github\\stemprogrammeren\\c#\\examenvraag\\examenvraag\\opmaakb.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{93A56E9B-F596-43FF-AEB9-C8FE5682297B}|examenVraag\\examenVraag.csproj|solutionrelative:examenvraag\\opmaakb.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93A56E9B-F596-43FF-AEB9-C8FE5682297B}|examenVraag\\examenVraag.csproj|c:\\users\\xander.gielen\\documents\\github\\stemprogrammeren\\c#\\examenvraag\\examenvraag\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93A56E9B-F596-43FF-AEB9-C8FE5682297B}|examenVraag\\examenVraag.csproj|solutionrelative:examenvraag\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\xander.gielen\\Documents\\GitHub\\StemProgrammeren\\C#\\examenVraag\\examenVraag\\Student.cs",
+              "RelativeDocumentMoniker": "examenVraag\\Student.cs",
+              "ToolTip": "C:\\Users\\xander.gielen\\Documents\\GitHub\\StemProgrammeren\\C#\\examenVraag\\examenVraag\\Student.cs",
+              "RelativeToolTip": "examenVraag\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T08:03:06.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OpmaakB.csv",
+              "DocumentMoniker": "C:\\Users\\xander.gielen\\Documents\\GitHub\\StemProgrammeren\\C#\\examenVraag\\examenVraag\\OpmaakB.csv",
+              "RelativeDocumentMoniker": "examenVraag\\OpmaakB.csv",
+              "ToolTip": "C:\\Users\\xander.gielen\\Documents\\GitHub\\StemProgrammeren\\C#\\examenVraag\\examenVraag\\OpmaakB.csv",
+              "RelativeToolTip": "examenVraag\\OpmaakB.csv",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2024-06-18T08:00:52.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\xander.gielen\\Documents\\GitHub\\StemProgrammeren\\C#\\examenVraag\\examenVraag\\Program.cs",
+              "RelativeDocumentMoniker": "examenVraag\\Program.cs",
+              "ToolTip": "C:\\Users\\xander.gielen\\Documents\\GitHub\\StemProgrammeren\\C#\\examenVraag\\examenVraag\\Program.cs",
+              "RelativeToolTip": "examenVraag\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAYwB4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T07:59:49.016Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

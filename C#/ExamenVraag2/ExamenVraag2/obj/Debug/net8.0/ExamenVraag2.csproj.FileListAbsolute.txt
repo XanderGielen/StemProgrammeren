@@ -1,0 +1,15 @@
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\ExamenVraag2\ExamenVraag2\bin\Debug\net8.0\ExamenVraag2.exe
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\ExamenVraag2\ExamenVraag2\bin\Debug\net8.0\ExamenVraag2.deps.json
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\ExamenVraag2\ExamenVraag2\bin\Debug\net8.0\ExamenVraag2.runtimeconfig.json
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\ExamenVraag2\ExamenVraag2\bin\Debug\net8.0\ExamenVraag2.dll
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\ExamenVraag2\ExamenVraag2\bin\Debug\net8.0\ExamenVraag2.pdb
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\ExamenVraag2\ExamenVraag2\obj\Debug\net8.0\ExamenVraag2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\ExamenVraag2\ExamenVraag2\obj\Debug\net8.0\ExamenVraag2.AssemblyInfoInputs.cache
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\ExamenVraag2\ExamenVraag2\obj\Debug\net8.0\ExamenVraag2.AssemblyInfo.cs
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\ExamenVraag2\ExamenVraag2\obj\Debug\net8.0\ExamenVraag2.csproj.CoreCompileInputs.cache
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\ExamenVraag2\ExamenVraag2\obj\Debug\net8.0\ExamenVraag2.sourcelink.json
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\ExamenVraag2\ExamenVraag2\obj\Debug\net8.0\ExamenVraag2.dll
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\ExamenVraag2\ExamenVraag2\obj\Debug\net8.0\refint\ExamenVraag2.dll
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\ExamenVraag2\ExamenVraag2\obj\Debug\net8.0\ExamenVraag2.pdb
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\ExamenVraag2\ExamenVraag2\obj\Debug\net8.0\ExamenVraag2.genruntimeconfig.cache
+C:\Users\xander.gielen\Documents\GitHub\StemProgrammeren\C#\ExamenVraag2\ExamenVraag2\obj\Debug\net8.0\ref\ExamenVraag2.dll

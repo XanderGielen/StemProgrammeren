@@ -1,0 +1,15 @@
+C:\Users\Bart\Documents\GitHub\ZieScherperOefeningen\Extra - Find In Pi\Extra - Find In Pi\bin\Debug\net8.0\Extra - Find In Pi.exe
+C:\Users\Bart\Documents\GitHub\ZieScherperOefeningen\Extra - Find In Pi\Extra - Find In Pi\bin\Debug\net8.0\Extra - Find In Pi.deps.json
+C:\Users\Bart\Documents\GitHub\ZieScherperOefeningen\Extra - Find In Pi\Extra - Find In Pi\bin\Debug\net8.0\Extra - Find In Pi.runtimeconfig.json
+C:\Users\Bart\Documents\GitHub\ZieScherperOefeningen\Extra - Find In Pi\Extra - Find In Pi\bin\Debug\net8.0\Extra - Find In Pi.dll
+C:\Users\Bart\Documents\GitHub\ZieScherperOefeningen\Extra - Find In Pi\Extra - Find In Pi\bin\Debug\net8.0\Extra - Find In Pi.pdb
+C:\Users\Bart\Documents\GitHub\ZieScherperOefeningen\Extra - Find In Pi\Extra - Find In Pi\obj\Debug\net8.0\Extra - Find In Pi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bart\Documents\GitHub\ZieScherperOefeningen\Extra - Find In Pi\Extra - Find In Pi\obj\Debug\net8.0\Extra - Find In Pi.AssemblyInfoInputs.cache
+C:\Users\Bart\Documents\GitHub\ZieScherperOefeningen\Extra - Find In Pi\Extra - Find In Pi\obj\Debug\net8.0\Extra - Find In Pi.AssemblyInfo.cs
+C:\Users\Bart\Documents\GitHub\ZieScherperOefeningen\Extra - Find In Pi\Extra - Find In Pi\obj\Debug\net8.0\Extra - Find In Pi.csproj.CoreCompileInputs.cache
+C:\Users\Bart\Documents\GitHub\ZieScherperOefeningen\Extra - Find In Pi\Extra - Find In Pi\obj\Debug\net8.0\Extra - Find In Pi.sourcelink.json
+C:\Users\Bart\Documents\GitHub\ZieScherperOefeningen\Extra - Find In Pi\Extra - Find In Pi\obj\Debug\net8.0\Extra - Find In Pi.dll
+C:\Users\Bart\Documents\GitHub\ZieScherperOefeningen\Extra - Find In Pi\Extra - Find In Pi\obj\Debug\net8.0\refint\Extra - Find In Pi.dll
+C:\Users\Bart\Documents\GitHub\ZieScherperOefeningen\Extra - Find In Pi\Extra - Find In Pi\obj\Debug\net8.0\Extra - Find In Pi.pdb
+C:\Users\Bart\Documents\GitHub\ZieScherperOefeningen\Extra - Find In Pi\Extra - Find In Pi\obj\Debug\net8.0\Extra - Find In Pi.genruntimeconfig.cache
+C:\Users\Bart\Documents\GitHub\ZieScherperOefeningen\Extra - Find In Pi\Extra - Find In Pi\obj\Debug\net8.0\ref\Extra - Find In Pi.dll

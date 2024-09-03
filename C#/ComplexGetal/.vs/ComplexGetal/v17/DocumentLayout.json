@@ -7,11 +7,11 @@
       "RelativeMoniker": "D:0:0:{2334491E-06D1-42CC-9A77-F5A17E93CAD3}|ComplexGetal\\ComplexGetal.csproj|solutionrelative:complexgetal\\complexgetalklasse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2334491E-06D1-42CC-9A77-F5A17E93CAD3}|ComplexGetal\\ComplexGetal.csproj|c:\\users\\xander.gielen\\documents\\github\\stemprogrammeren\\c#\\complexgetal\\complexgetal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2334491E-06D1-42CC-9A77-F5A17E93CAD3}|ComplexGetal\\ComplexGetal.csproj|C:\\Users\\xander.gielen\\Documents\\GitHub\\StemProgrammeren\\C#\\ComplexGetal\\complexgetal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2334491E-06D1-42CC-9A77-F5A17E93CAD3}|ComplexGetal\\ComplexGetal.csproj|solutionrelative:complexgetal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2334491E-06D1-42CC-9A77-F5A17E93CAD3}|ComplexGetal\\ComplexGetal.csproj|c:\\users\\xander.gielen\\documents\\github\\stemprogrammeren\\c#\\complexgetal\\complexgetal\\reeelgetalklasse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2334491E-06D1-42CC-9A77-F5A17E93CAD3}|ComplexGetal\\ComplexGetal.csproj|C:\\Users\\xander.gielen\\Documents\\GitHub\\StemProgrammeren\\C#\\ComplexGetal\\complexgetal\\reeelgetalklasse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2334491E-06D1-42CC-9A77-F5A17E93CAD3}|ComplexGetal\\ComplexGetal.csproj|solutionrelative:complexgetal\\reeelgetalklasse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -22,8 +22,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -56,7 +60,7 @@
               "RelativeDocumentMoniker": "ComplexGetal\\ComplexGetalKlasse.cs",
               "ToolTip": "C:\\Users\\xander.gielen\\Documents\\GitHub\\StemProgrammeren\\C#\\ComplexGetal\\ComplexGetal\\ComplexGetalKlasse.cs",
               "RelativeToolTip": "ComplexGetal\\ComplexGetalKlasse.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAYwEwAAAARAAAA",
+              "ViewState": "AQIAADgAAAAAAAAAAAAUwEwAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-17T09:30:34.123Z",
               "EditorCaption": ""

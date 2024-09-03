@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Vraag 3 - Exceptions/1.0.0": {
+        "runtime": {
+          "Vraag 3 - Exceptions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Vraag 3 - Exceptions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

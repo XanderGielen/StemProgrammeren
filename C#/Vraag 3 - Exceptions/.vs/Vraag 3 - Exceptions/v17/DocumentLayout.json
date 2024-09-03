@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\xander.gielen\\Documents\\GitHub\\StemProgrammeren\\C#\\Vraag 3 - Exceptions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6CE65430-1648-4221-8D16-D349B433BCED}|Vraag 3 - Exceptions\\Vraag 3 - Exceptions.csproj|c:\\users\\xander.gielen\\documents\\github\\stemprogrammeren\\c#\\vraag 3 - exceptions\\vraag 3 - exceptions\\bankrekening.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CE65430-1648-4221-8D16-D349B433BCED}|Vraag 3 - Exceptions\\Vraag 3 - Exceptions.csproj|solutionrelative:vraag 3 - exceptions\\bankrekening.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CE65430-1648-4221-8D16-D349B433BCED}|Vraag 3 - Exceptions\\Vraag 3 - Exceptions.csproj|c:\\users\\xander.gielen\\documents\\github\\stemprogrammeren\\c#\\vraag 3 - exceptions\\vraag 3 - exceptions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CE65430-1648-4221-8D16-D349B433BCED}|Vraag 3 - Exceptions\\Vraag 3 - Exceptions.csproj|solutionrelative:vraag 3 - exceptions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CE65430-1648-4221-8D16-D349B433BCED}|Vraag 3 - Exceptions\\Vraag 3 - Exceptions.csproj|c:\\users\\xander.gielen\\documents\\github\\stemprogrammeren\\c#\\vraag 3 - exceptions\\vraag 3 - exceptions\\negatiefbedragexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CE65430-1648-4221-8D16-D349B433BCED}|Vraag 3 - Exceptions\\Vraag 3 - Exceptions.csproj|solutionrelative:vraag 3 - exceptions\\negatiefbedragexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CE65430-1648-4221-8D16-D349B433BCED}|Vraag 3 - Exceptions\\Vraag 3 - Exceptions.csproj|c:\\users\\xander.gielen\\documents\\github\\stemprogrammeren\\c#\\vraag 3 - exceptions\\vraag 3 - exceptions\\saldoontoereikendexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CE65430-1648-4221-8D16-D349B433BCED}|Vraag 3 - Exceptions\\Vraag 3 - Exceptions.csproj|solutionrelative:vraag 3 - exceptions\\saldoontoereikendexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SaldoOntoereikendException.cs",
+              "DocumentMoniker": "C:\\Users\\xander.gielen\\Documents\\GitHub\\StemProgrammeren\\C#\\Vraag 3 - Exceptions\\Vraag 3 - Exceptions\\SaldoOntoereikendException.cs",
+              "RelativeDocumentMoniker": "Vraag 3 - Exceptions\\SaldoOntoereikendException.cs",
+              "ToolTip": "C:\\Users\\xander.gielen\\Documents\\GitHub\\StemProgrammeren\\C#\\Vraag 3 - Exceptions\\Vraag 3 - Exceptions\\SaldoOntoereikendException.cs",
+              "RelativeToolTip": "Vraag 3 - Exceptions\\SaldoOntoereikendException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T09:00:56.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NegatiefBedragException.cs",
+              "DocumentMoniker": "C:\\Users\\xander.gielen\\Documents\\GitHub\\StemProgrammeren\\C#\\Vraag 3 - Exceptions\\Vraag 3 - Exceptions\\NegatiefBedragException.cs",
+              "RelativeDocumentMoniker": "Vraag 3 - Exceptions\\NegatiefBedragException.cs",
+              "ToolTip": "C:\\Users\\xander.gielen\\Documents\\GitHub\\StemProgrammeren\\C#\\Vraag 3 - Exceptions\\Vraag 3 - Exceptions\\NegatiefBedragException.cs",
+              "RelativeToolTip": "Vraag 3 - Exceptions\\NegatiefBedragException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T08:59:26.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bankrekening.cs",
+              "DocumentMoniker": "C:\\Users\\xander.gielen\\Documents\\GitHub\\StemProgrammeren\\C#\\Vraag 3 - Exceptions\\Vraag 3 - Exceptions\\Bankrekening.cs",
+              "RelativeDocumentMoniker": "Vraag 3 - Exceptions\\Bankrekening.cs",
+              "ToolTip": "C:\\Users\\xander.gielen\\Documents\\GitHub\\StemProgrammeren\\C#\\Vraag 3 - Exceptions\\Vraag 3 - Exceptions\\Bankrekening.cs",
+              "RelativeToolTip": "Vraag 3 - Exceptions\\Bankrekening.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAwCkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T08:56:36.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\xander.gielen\\Documents\\GitHub\\StemProgrammeren\\C#\\Vraag 3 - Exceptions\\Vraag 3 - Exceptions\\Program.cs",
+              "RelativeDocumentMoniker": "Vraag 3 - Exceptions\\Program.cs",
+              "ToolTip": "C:\\Users\\xander.gielen\\Documents\\GitHub\\StemProgrammeren\\C#\\Vraag 3 - Exceptions\\Vraag 3 - Exceptions\\Program.cs",
+              "RelativeToolTip": "Vraag 3 - Exceptions\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB8AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T08:55:49.695Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

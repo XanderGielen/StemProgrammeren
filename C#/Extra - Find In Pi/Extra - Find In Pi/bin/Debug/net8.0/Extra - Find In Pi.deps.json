@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Extra - Find In Pi/1.0.0": {
+        "runtime": {
+          "Extra - Find In Pi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Extra - Find In Pi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

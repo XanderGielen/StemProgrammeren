@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\xander.gielen\\Documents\\GitHub\\StemProgrammeren\\C#\\Weerstationn\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2D45092F-ED16-4835-B684-E28C087F3FBC}|Weerstationn\\Weerstationn.csproj|c:\\users\\xander.gielen\\documents\\github\\stemprogrammeren\\c#\\weerstationn\\weerstationn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D45092F-ED16-4835-B684-E28C087F3FBC}|Weerstationn\\Weerstationn.csproj|solutionrelative:weerstationn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D45092F-ED16-4835-B684-E28C087F3FBC}|Weerstationn\\Weerstationn.csproj|c:\\users\\xander.gielen\\documents\\github\\stemprogrammeren\\c#\\weerstationn\\weerstationn\\temperatuur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D45092F-ED16-4835-B684-E28C087F3FBC}|Weerstationn\\Weerstationn.csproj|solutionrelative:weerstationn\\temperatuur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2D45092F-ED16-4835-B684-E28C087F3FBC}|Weerstationn\\Weerstationn.csproj|c:\\users\\xander.gielen\\documents\\github\\stemprogrammeren\\c#\\weerstationn\\weerstationn\\drukmeting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D45092F-ED16-4835-B684-E28C087F3FBC}|Weerstationn\\Weerstationn.csproj|solutionrelative:weerstationn\\drukmeting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2D45092F-ED16-4835-B684-E28C087F3FBC}|Weerstationn\\Weerstationn.csproj|c:\\users\\xander.gielen\\documents\\github\\stemprogrammeren\\c#\\weerstationn\\weerstationn\\meting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2D45092F-ED16-4835-B684-E28C087F3FBC}|Weerstationn\\Weerstationn.csproj|solutionrelative:weerstationn\\meting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D45092F-ED16-4835-B684-E28C087F3FBC}|Weerstationn\\Weerstationn.csproj|C:\\Users\\xander.gielen\\Documents\\GitHub\\StemProgrammeren\\C#\\Weerstationn\\weerstationn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D45092F-ED16-4835-B684-E28C087F3FBC}|Weerstationn\\Weerstationn.csproj|solutionrelative:weerstationn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D45092F-ED16-4835-B684-E28C087F3FBC}|Weerstationn\\Weerstationn.csproj|C:\\Users\\xander.gielen\\Documents\\GitHub\\StemProgrammeren\\C#\\Weerstationn\\weerstationn\\temperatuur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D45092F-ED16-4835-B684-E28C087F3FBC}|Weerstationn\\Weerstationn.csproj|solutionrelative:weerstationn\\temperatuur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,37 +26,54 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "DrukMeting.cs",
+              "DocumentMoniker": "C:\\Users\\xander.gielen\\Documents\\GitHub\\StemProgrammeren\\C#\\Weerstationn\\Weerstationn\\DrukMeting.cs",
+              "RelativeDocumentMoniker": "Weerstationn\\DrukMeting.cs",
+              "ToolTip": "C:\\Users\\xander.gielen\\Documents\\GitHub\\StemProgrammeren\\C#\\Weerstationn\\Weerstationn\\DrukMeting.cs",
+              "RelativeToolTip": "Weerstationn\\DrukMeting.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T08:08:08.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Temperatuur.cs",
               "DocumentMoniker": "C:\\Users\\xander.gielen\\Documents\\GitHub\\StemProgrammeren\\C#\\Weerstationn\\Weerstationn\\Temperatuur.cs",
               "RelativeDocumentMoniker": "Weerstationn\\Temperatuur.cs",
               "ToolTip": "C:\\Users\\xander.gielen\\Documents\\GitHub\\StemProgrammeren\\C#\\Weerstationn\\Weerstationn\\Temperatuur.cs",
               "RelativeToolTip": "Weerstationn\\Temperatuur.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAANAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-27T13:03:21.192Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Meting.cs",
               "DocumentMoniker": "C:\\Users\\xander.gielen\\Documents\\GitHub\\StemProgrammeren\\C#\\Weerstationn\\Weerstationn\\Meting.cs",
               "RelativeDocumentMoniker": "Weerstationn\\Meting.cs",
               "ToolTip": "C:\\Users\\xander.gielen\\Documents\\GitHub\\StemProgrammeren\\C#\\Weerstationn\\Weerstationn\\Meting.cs",
               "RelativeToolTip": "Weerstationn\\Meting.cs",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAmwBMAAABQAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-27T12:45:02.278Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\xander.gielen\\Documents\\GitHub\\StemProgrammeren\\C#\\Weerstationn\\Weerstationn\\Program.cs",
               "RelativeDocumentMoniker": "Weerstationn\\Program.cs",
